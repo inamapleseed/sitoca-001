@@ -1,0 +1,1738 @@
+[28-May-2021 19:05:20 UTC] PHP Fatal error:  Uncaught exception 'Hybrid_Exception' with message 'You cannot access this page directly.' in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php:211
+Stack trace:
+#0 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(117): Hybrid_Endpoint->authInit()
+#1 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(51): Hybrid_Endpoint->processAuthStart()
+#2 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(72): Hybrid_Endpoint->__construct(NULL)
+#3 /home/sitocasg/public_html/catalog/controller/extension/d_social_login/callback.php(12): Hybrid_Endpoint::process()
+#4 [internal function]: ControllerExtensionDSocialLoginCallback->index()
+#5 /home/sitocasg/public_html/system/storage/modification/system/engine/action.php(51): call_user_func_array(Array, Array)
+#6 /home/sitocasg/public_html/catalog/controller/startup/router.php(25): Action->execute(Object(Registry))
+#7 [internal function]: ControllerStartupRouter->index()
+#8 in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php on line 217
+[28-May-2021 19:45:16 UTC] PHP Fatal error:  Uncaught exception 'Hybrid_Exception' with message 'You cannot access this page directly.' in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php:211
+Stack trace:
+#0 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(117): Hybrid_Endpoint->authInit()
+#1 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(51): Hybrid_Endpoint->processAuthStart()
+#2 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(72): Hybrid_Endpoint->__construct(NULL)
+#3 /home/sitocasg/public_html/catalog/controller/extension/d_social_login/callback.php(12): Hybrid_Endpoint::process()
+#4 [internal function]: ControllerExtensionDSocialLoginCallback->index()
+#5 /home/sitocasg/public_html/system/storage/modification/system/engine/action.php(51): call_user_func_array(Array, Array)
+#6 /home/sitocasg/public_html/catalog/controller/startup/router.php(25): Action->execute(Object(Registry))
+#7 [internal function]: ControllerStartupRouter->index()
+#8 in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php on line 217
+[29-May-2021 04:53:48 UTC] PHP Fatal error:  Uncaught exception 'Hybrid_Exception' with message 'You cannot access this page directly.' in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php:211
+Stack trace:
+#0 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(117): Hybrid_Endpoint->authInit()
+#1 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(51): Hybrid_Endpoint->processAuthStart()
+#2 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(72): Hybrid_Endpoint->__construct(NULL)
+#3 /home/sitocasg/public_html/catalog/controller/extension/d_social_login/callback.php(12): Hybrid_Endpoint::process()
+#4 [internal function]: ControllerExtensionDSocialLoginCallback->index()
+#5 /home/sitocasg/public_html/system/storage/modification/system/engine/action.php(51): call_user_func_array(Array, Array)
+#6 /home/sitocasg/public_html/catalog/controller/startup/router.php(25): Action->execute(Object(Registry))
+#7 [internal function]: ControllerStartupRouter->index()
+#8 in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php on line 217
+[30-May-2021 21:57:08 Asia/Singapore] PHP Warning:  unlink(/home/sitocasg/public_html/system/storage/cache/cache.currency.1622382554): No such file or directory in /home/sitocasg/public_html/system/library/cache/file.php on line 17
+[01-Jun-2021 19:04:59 UTC] PHP Fatal error:  Uncaught exception 'Hybrid_Exception' with message 'You cannot access this page directly.' in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php:211
+Stack trace:
+#0 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(117): Hybrid_Endpoint->authInit()
+#1 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(51): Hybrid_Endpoint->processAuthStart()
+#2 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(72): Hybrid_Endpoint->__construct(NULL)
+#3 /home/sitocasg/public_html/catalog/controller/extension/d_social_login/callback.php(12): Hybrid_Endpoint::process()
+#4 [internal function]: ControllerExtensionDSocialLoginCallback->index()
+#5 /home/sitocasg/public_html/system/storage/modification/system/engine/action.php(51): call_user_func_array(Array, Array)
+#6 /home/sitocasg/public_html/catalog/controller/startup/router.php(25): Action->execute(Object(Registry))
+#7 [internal function]: ControllerStartupRouter->index()
+#8 in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php on line 217
+[03-Jun-2021 17:37:59 UTC] PHP Fatal error:  Uncaught exception 'Hybrid_Exception' with message 'You cannot access this page directly.' in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php:211
+Stack trace:
+#0 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(117): Hybrid_Endpoint->authInit()
+#1 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(51): Hybrid_Endpoint->processAuthStart()
+#2 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(72): Hybrid_Endpoint->__construct(NULL)
+#3 /home/sitocasg/public_html/catalog/controller/extension/d_social_login/callback.php(12): Hybrid_Endpoint::process()
+#4 [internal function]: ControllerExtensionDSocialLoginCallback->index()
+#5 /home/sitocasg/public_html/system/storage/modification/system/engine/action.php(51): call_user_func_array(Array, Array)
+#6 /home/sitocasg/public_html/catalog/controller/startup/router.php(25): Action->execute(Object(Registry))
+#7 [internal function]: ControllerStartupRouter->index()
+#8 in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php on line 217
+[04-Jun-2021 02:34:55 UTC] PHP Fatal error:  Uncaught exception 'Hybrid_Exception' with message 'You cannot access this page directly.' in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php:211
+Stack trace:
+#0 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(117): Hybrid_Endpoint->authInit()
+#1 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(51): Hybrid_Endpoint->processAuthStart()
+#2 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(72): Hybrid_Endpoint->__construct(NULL)
+#3 /home/sitocasg/public_html/catalog/controller/extension/d_social_login/callback.php(12): Hybrid_Endpoint::process()
+#4 [internal function]: ControllerExtensionDSocialLoginCallback->index()
+#5 /home/sitocasg/public_html/system/storage/modification/system/engine/action.php(51): call_user_func_array(Array, Array)
+#6 /home/sitocasg/public_html/catalog/controller/startup/router.php(25): Action->execute(Object(Registry))
+#7 [internal function]: ControllerStartupRouter->index()
+#8 in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php on line 217
+[06-Jun-2021 04:19:18 UTC] PHP Fatal error:  Uncaught exception 'Hybrid_Exception' with message 'You cannot access this page directly.' in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php:211
+Stack trace:
+#0 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(117): Hybrid_Endpoint->authInit()
+#1 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(51): Hybrid_Endpoint->processAuthStart()
+#2 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(72): Hybrid_Endpoint->__construct(NULL)
+#3 /home/sitocasg/public_html/catalog/controller/extension/d_social_login/callback.php(12): Hybrid_Endpoint::process()
+#4 [internal function]: ControllerExtensionDSocialLoginCallback->index()
+#5 /home/sitocasg/public_html/system/storage/modification/system/engine/action.php(51): call_user_func_array(Array, Array)
+#6 /home/sitocasg/public_html/catalog/controller/startup/router.php(25): Action->execute(Object(Registry))
+#7 [internal function]: ControllerStartupRouter->index()
+#8 in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php on line 217
+[06-Jun-2021 23:06:35 UTC] PHP Fatal error:  Uncaught exception 'Hybrid_Exception' with message 'You cannot access this page directly.' in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php:211
+Stack trace:
+#0 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(117): Hybrid_Endpoint->authInit()
+#1 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(51): Hybrid_Endpoint->processAuthStart()
+#2 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(72): Hybrid_Endpoint->__construct(NULL)
+#3 /home/sitocasg/public_html/catalog/controller/extension/d_social_login/callback.php(12): Hybrid_Endpoint::process()
+#4 [internal function]: ControllerExtensionDSocialLoginCallback->index()
+#5 /home/sitocasg/public_html/system/storage/modification/system/engine/action.php(51): call_user_func_array(Array, Array)
+#6 /home/sitocasg/public_html/catalog/controller/startup/router.php(25): Action->execute(Object(Registry))
+#7 [internal function]: ControllerStartupRouter->index()
+#8 in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php on line 217
+[06-Jun-2021 23:46:26 UTC] PHP Fatal error:  Uncaught exception 'Hybrid_Exception' with message 'You cannot access this page directly.' in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php:211
+Stack trace:
+#0 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(117): Hybrid_Endpoint->authInit()
+#1 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(51): Hybrid_Endpoint->processAuthStart()
+#2 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(72): Hybrid_Endpoint->__construct(NULL)
+#3 /home/sitocasg/public_html/catalog/controller/extension/d_social_login/callback.php(12): Hybrid_Endpoint::process()
+#4 [internal function]: ControllerExtensionDSocialLoginCallback->index()
+#5 /home/sitocasg/public_html/system/storage/modification/system/engine/action.php(51): call_user_func_array(Array, Array)
+#6 /home/sitocasg/public_html/catalog/controller/startup/router.php(25): Action->execute(Object(Registry))
+#7 [internal function]: ControllerStartupRouter->index()
+#8 in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php on line 217
+[09-Jun-2021 23:33:45 UTC] PHP Fatal error:  Uncaught exception 'Hybrid_Exception' with message 'You cannot access this page directly.' in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php:211
+Stack trace:
+#0 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(117): Hybrid_Endpoint->authInit()
+#1 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(51): Hybrid_Endpoint->processAuthStart()
+#2 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(72): Hybrid_Endpoint->__construct(NULL)
+#3 /home/sitocasg/public_html/catalog/controller/extension/d_social_login/callback.php(12): Hybrid_Endpoint::process()
+#4 [internal function]: ControllerExtensionDSocialLoginCallback->index()
+#5 /home/sitocasg/public_html/system/storage/modification/system/engine/action.php(51): call_user_func_array(Array, Array)
+#6 /home/sitocasg/public_html/catalog/controller/startup/router.php(25): Action->execute(Object(Registry))
+#7 [internal function]: ControllerStartupRouter->index()
+#8 in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php on line 217
+[18-Jun-2021 15:42:44 UTC] PHP Fatal error:  Uncaught exception 'Hybrid_Exception' with message 'You cannot access this page directly.' in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php:211
+Stack trace:
+#0 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(117): Hybrid_Endpoint->authInit()
+#1 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(51): Hybrid_Endpoint->processAuthStart()
+#2 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(72): Hybrid_Endpoint->__construct(NULL)
+#3 /home/sitocasg/public_html/catalog/controller/extension/d_social_login/callback.php(12): Hybrid_Endpoint::process()
+#4 [internal function]: ControllerExtensionDSocialLoginCallback->index()
+#5 /home/sitocasg/public_html/system/storage/modification/system/engine/action.php(51): call_user_func_array(Array, Array)
+#6 /home/sitocasg/public_html/catalog/controller/startup/router.php(25): Action->execute(Object(Registry))
+#7 [internal function]: ControllerStartupRouter->index()
+#8 in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php on line 217
+[22-Jun-2021 09:57:50 Asia/Singapore] PHP Warning:  unlink(/home/sitocasg/public_html/system/storage/cache/cache.currency.1624326997): No such file or directory in /home/sitocasg/public_html/system/library/cache/file.php on line 17
+[26-Jun-2021 02:26:18 UTC] PHP Fatal error:  Uncaught exception 'Hybrid_Exception' with message 'You cannot access this page directly.' in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php:211
+Stack trace:
+#0 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(117): Hybrid_Endpoint->authInit()
+#1 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(51): Hybrid_Endpoint->processAuthStart()
+#2 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(72): Hybrid_Endpoint->__construct(NULL)
+#3 /home/sitocasg/public_html/catalog/controller/extension/d_social_login/callback.php(12): Hybrid_Endpoint::process()
+#4 [internal function]: ControllerExtensionDSocialLoginCallback->index()
+#5 /home/sitocasg/public_html/system/storage/modification/system/engine/action.php(51): call_user_func_array(Array, Array)
+#6 /home/sitocasg/public_html/catalog/controller/startup/router.php(25): Action->execute(Object(Registry))
+#7 [internal function]: ControllerStartupRouter->index()
+#8 in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php on line 217
+[27-Jun-2021 11:50:39 UTC] PHP Fatal error:  Uncaught exception 'Hybrid_Exception' with message 'You cannot access this page directly.' in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php:211
+Stack trace:
+#0 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(117): Hybrid_Endpoint->authInit()
+#1 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(51): Hybrid_Endpoint->processAuthStart()
+#2 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(72): Hybrid_Endpoint->__construct(NULL)
+#3 /home/sitocasg/public_html/catalog/controller/extension/d_social_login/callback.php(12): Hybrid_Endpoint::process()
+#4 [internal function]: ControllerExtensionDSocialLoginCallback->index()
+#5 /home/sitocasg/public_html/system/storage/modification/system/engine/action.php(51): call_user_func_array(Array, Array)
+#6 /home/sitocasg/public_html/catalog/controller/startup/router.php(25): Action->execute(Object(Registry))
+#7 [internal function]: ControllerStartupRouter->index()
+#8 in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php on line 217
+[27-Jun-2021 11:50:47 UTC] PHP Fatal error:  Uncaught exception 'Hybrid_Exception' with message 'You cannot access this page directly.' in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php:211
+Stack trace:
+#0 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(117): Hybrid_Endpoint->authInit()
+#1 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(51): Hybrid_Endpoint->processAuthStart()
+#2 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(72): Hybrid_Endpoint->__construct(NULL)
+#3 /home/sitocasg/public_html/catalog/controller/extension/d_social_login/callback.php(12): Hybrid_Endpoint::process()
+#4 [internal function]: ControllerExtensionDSocialLoginCallback->index()
+#5 /home/sitocasg/public_html/system/storage/modification/system/engine/action.php(51): call_user_func_array(Array, Array)
+#6 /home/sitocasg/public_html/catalog/controller/startup/router.php(25): Action->execute(Object(Registry))
+#7 [internal function]: ControllerStartupRouter->index()
+#8 in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php on line 217
+[27-Jun-2021 11:51:30 UTC] PHP Fatal error:  Uncaught exception 'Hybrid_Exception' with message 'You cannot access this page directly.' in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php:211
+Stack trace:
+#0 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(117): Hybrid_Endpoint->authInit()
+#1 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(51): Hybrid_Endpoint->processAuthStart()
+#2 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(72): Hybrid_Endpoint->__construct(NULL)
+#3 /home/sitocasg/public_html/catalog/controller/extension/d_social_login/callback.php(12): Hybrid_Endpoint::process()
+#4 [internal function]: ControllerExtensionDSocialLoginCallback->index()
+#5 /home/sitocasg/public_html/system/storage/modification/system/engine/action.php(51): call_user_func_array(Array, Array)
+#6 /home/sitocasg/public_html/catalog/controller/startup/router.php(25): Action->execute(Object(Registry))
+#7 [internal function]: ControllerStartupRouter->index()
+#8 in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php on line 217
+[28-Jun-2021 23:53:23 UTC] PHP Fatal error:  Uncaught exception 'Hybrid_Exception' with message 'You cannot access this page directly.' in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php:211
+Stack trace:
+#0 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(117): Hybrid_Endpoint->authInit()
+#1 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(51): Hybrid_Endpoint->processAuthStart()
+#2 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(72): Hybrid_Endpoint->__construct(NULL)
+#3 /home/sitocasg/public_html/catalog/controller/extension/d_social_login/callback.php(12): Hybrid_Endpoint::process()
+#4 [internal function]: ControllerExtensionDSocialLoginCallback->index()
+#5 /home/sitocasg/public_html/system/storage/modification/system/engine/action.php(51): call_user_func_array(Array, Array)
+#6 /home/sitocasg/public_html/catalog/controller/startup/router.php(25): Action->execute(Object(Registry))
+#7 [internal function]: ControllerStartupRouter->index()
+#8 in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php on line 217
+[29-Jun-2021 16:17:38 UTC] PHP Fatal error:  Uncaught exception 'Hybrid_Exception' with message 'You cannot access this page directly.' in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php:211
+Stack trace:
+#0 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(117): Hybrid_Endpoint->authInit()
+#1 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(51): Hybrid_Endpoint->processAuthStart()
+#2 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(72): Hybrid_Endpoint->__construct(NULL)
+#3 /home/sitocasg/public_html/catalog/controller/extension/d_social_login/callback.php(12): Hybrid_Endpoint::process()
+#4 [internal function]: ControllerExtensionDSocialLoginCallback->index()
+#5 /home/sitocasg/public_html/system/storage/modification/system/engine/action.php(51): call_user_func_array(Array, Array)
+#6 /home/sitocasg/public_html/catalog/controller/startup/router.php(25): Action->execute(Object(Registry))
+#7 [internal function]: ControllerStartupRouter->index()
+#8 in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php on line 217
+[30-Jun-2021 03:41:10 UTC] PHP Fatal error:  Uncaught exception 'Hybrid_Exception' with message 'You cannot access this page directly.' in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php:211
+Stack trace:
+#0 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(117): Hybrid_Endpoint->authInit()
+#1 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(51): Hybrid_Endpoint->processAuthStart()
+#2 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(72): Hybrid_Endpoint->__construct(NULL)
+#3 /home/sitocasg/public_html/catalog/controller/extension/d_social_login/callback.php(12): Hybrid_Endpoint::process()
+#4 [internal function]: ControllerExtensionDSocialLoginCallback->index()
+#5 /home/sitocasg/public_html/system/storage/modification/system/engine/action.php(51): call_user_func_array(Array, Array)
+#6 /home/sitocasg/public_html/catalog/controller/startup/router.php(25): Action->execute(Object(Registry))
+#7 [internal function]: ControllerStartupRouter->index()
+#8 in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php on line 217
+[30-Jun-2021 12:56:34 UTC] PHP Fatal error:  Uncaught exception 'Hybrid_Exception' with message 'You cannot access this page directly.' in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php:211
+Stack trace:
+#0 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(117): Hybrid_Endpoint->authInit()
+#1 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(51): Hybrid_Endpoint->processAuthStart()
+#2 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(72): Hybrid_Endpoint->__construct(NULL)
+#3 /home/sitocasg/public_html/catalog/controller/extension/d_social_login/callback.php(12): Hybrid_Endpoint::process()
+#4 [internal function]: ControllerExtensionDSocialLoginCallback->index()
+#5 /home/sitocasg/public_html/system/storage/modification/system/engine/action.php(51): call_user_func_array(Array, Array)
+#6 /home/sitocasg/public_html/catalog/controller/startup/router.php(25): Action->execute(Object(Registry))
+#7 [internal function]: ControllerStartupRouter->index()
+#8 in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php on line 217
+[02-Jul-2021 19:28:47 UTC] PHP Fatal error:  Uncaught exception 'Hybrid_Exception' with message 'You cannot access this page directly.' in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php:211
+Stack trace:
+#0 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(117): Hybrid_Endpoint->authInit()
+#1 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(51): Hybrid_Endpoint->processAuthStart()
+#2 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(72): Hybrid_Endpoint->__construct(NULL)
+#3 /home/sitocasg/public_html/catalog/controller/extension/d_social_login/callback.php(12): Hybrid_Endpoint::process()
+#4 [internal function]: ControllerExtensionDSocialLoginCallback->index()
+#5 /home/sitocasg/public_html/system/storage/modification/system/engine/action.php(51): call_user_func_array(Array, Array)
+#6 /home/sitocasg/public_html/catalog/controller/startup/router.php(25): Action->execute(Object(Registry))
+#7 [internal function]: ControllerStartupRouter->index()
+#8 in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php on line 217
+[03-Jul-2021 12:36:38 UTC] PHP Fatal error:  Uncaught exception 'Hybrid_Exception' with message 'You cannot access this page directly.' in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php:211
+Stack trace:
+#0 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(117): Hybrid_Endpoint->authInit()
+#1 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(51): Hybrid_Endpoint->processAuthStart()
+#2 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(72): Hybrid_Endpoint->__construct(NULL)
+#3 /home/sitocasg/public_html/catalog/controller/extension/d_social_login/callback.php(12): Hybrid_Endpoint::process()
+#4 [internal function]: ControllerExtensionDSocialLoginCallback->index()
+#5 /home/sitocasg/public_html/system/storage/modification/system/engine/action.php(51): call_user_func_array(Array, Array)
+#6 /home/sitocasg/public_html/catalog/controller/startup/router.php(25): Action->execute(Object(Registry))
+#7 [internal function]: ControllerStartupRouter->index()
+#8 in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php on line 217
+[05-Jul-2021 09:51:26 UTC] PHP Fatal error:  Uncaught exception 'Hybrid_Exception' with message 'You cannot access this page directly.' in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php:211
+Stack trace:
+#0 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(117): Hybrid_Endpoint->authInit()
+#1 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(51): Hybrid_Endpoint->processAuthStart()
+#2 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(72): Hybrid_Endpoint->__construct(NULL)
+#3 /home/sitocasg/public_html/catalog/controller/extension/d_social_login/callback.php(12): Hybrid_Endpoint::process()
+#4 [internal function]: ControllerExtensionDSocialLoginCallback->index()
+#5 /home/sitocasg/public_html/system/storage/modification/system/engine/action.php(51): call_user_func_array(Array, Array)
+#6 /home/sitocasg/public_html/catalog/controller/startup/router.php(25): Action->execute(Object(Registry))
+#7 [internal function]: ControllerStartupRouter->index()
+#8 in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php on line 217
+[06-Jul-2021 15:38:16 UTC] PHP Fatal error:  Uncaught exception 'Hybrid_Exception' with message 'You cannot access this page directly.' in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php:211
+Stack trace:
+#0 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(117): Hybrid_Endpoint->authInit()
+#1 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(51): Hybrid_Endpoint->processAuthStart()
+#2 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(72): Hybrid_Endpoint->__construct(NULL)
+#3 /home/sitocasg/public_html/catalog/controller/extension/d_social_login/callback.php(12): Hybrid_Endpoint::process()
+#4 [internal function]: ControllerExtensionDSocialLoginCallback->index()
+#5 /home/sitocasg/public_html/system/storage/modification/system/engine/action.php(51): call_user_func_array(Array, Array)
+#6 /home/sitocasg/public_html/catalog/controller/startup/router.php(25): Action->execute(Object(Registry))
+#7 [internal function]: ControllerStartupRouter->index()
+#8 in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php on line 217
+[07-Jul-2021 05:24:49 UTC] PHP Fatal error:  Uncaught exception 'Hybrid_Exception' with message 'You cannot access this page directly.' in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php:211
+Stack trace:
+#0 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(117): Hybrid_Endpoint->authInit()
+#1 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(51): Hybrid_Endpoint->processAuthStart()
+#2 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(72): Hybrid_Endpoint->__construct(NULL)
+#3 /home/sitocasg/public_html/catalog/controller/extension/d_social_login/callback.php(12): Hybrid_Endpoint::process()
+#4 [internal function]: ControllerExtensionDSocialLoginCallback->index()
+#5 /home/sitocasg/public_html/system/storage/modification/system/engine/action.php(51): call_user_func_array(Array, Array)
+#6 /home/sitocasg/public_html/catalog/controller/startup/router.php(25): Action->execute(Object(Registry))
+#7 [internal function]: ControllerStartupRouter->index()
+#8 in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php on line 217
+[09-Jul-2021 06:46:53 UTC] PHP Fatal error:  Uncaught exception 'Hybrid_Exception' with message 'You cannot access this page directly.' in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php:211
+Stack trace:
+#0 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(117): Hybrid_Endpoint->authInit()
+#1 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(51): Hybrid_Endpoint->processAuthStart()
+#2 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(72): Hybrid_Endpoint->__construct(NULL)
+#3 /home/sitocasg/public_html/catalog/controller/extension/d_social_login/callback.php(12): Hybrid_Endpoint::process()
+#4 [internal function]: ControllerExtensionDSocialLoginCallback->index()
+#5 /home/sitocasg/public_html/system/storage/modification/system/engine/action.php(51): call_user_func_array(Array, Array)
+#6 /home/sitocasg/public_html/catalog/controller/startup/router.php(25): Action->execute(Object(Registry))
+#7 [internal function]: ControllerStartupRouter->index()
+#8 in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php on line 217
+[12-Jul-2021 07:58:36 UTC] PHP Fatal error:  Uncaught exception 'Hybrid_Exception' with message 'You cannot access this page directly.' in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php:211
+Stack trace:
+#0 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(117): Hybrid_Endpoint->authInit()
+#1 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(51): Hybrid_Endpoint->processAuthStart()
+#2 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(72): Hybrid_Endpoint->__construct(NULL)
+#3 /home/sitocasg/public_html/catalog/controller/extension/d_social_login/callback.php(12): Hybrid_Endpoint::process()
+#4 [internal function]: ControllerExtensionDSocialLoginCallback->index()
+#5 /home/sitocasg/public_html/system/storage/modification/system/engine/action.php(51): call_user_func_array(Array, Array)
+#6 /home/sitocasg/public_html/catalog/controller/startup/router.php(25): Action->execute(Object(Registry))
+#7 [internal function]: ControllerStartupRouter->index()
+#8 in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php on line 217
+[12-Jul-2021 21:33:03 UTC] PHP Fatal error:  Uncaught exception 'Hybrid_Exception' with message 'You cannot access this page directly.' in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php:211
+Stack trace:
+#0 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(117): Hybrid_Endpoint->authInit()
+#1 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(51): Hybrid_Endpoint->processAuthStart()
+#2 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(72): Hybrid_Endpoint->__construct(NULL)
+#3 /home/sitocasg/public_html/catalog/controller/extension/d_social_login/callback.php(12): Hybrid_Endpoint::process()
+#4 [internal function]: ControllerExtensionDSocialLoginCallback->index()
+#5 /home/sitocasg/public_html/system/storage/modification/system/engine/action.php(51): call_user_func_array(Array, Array)
+#6 /home/sitocasg/public_html/catalog/controller/startup/router.php(25): Action->execute(Object(Registry))
+#7 [internal function]: ControllerStartupRouter->index()
+#8 in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php on line 217
+[13-Jul-2021 06:41:53 UTC] PHP Fatal error:  Uncaught exception 'Hybrid_Exception' with message 'You cannot access this page directly.' in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php:211
+Stack trace:
+#0 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(117): Hybrid_Endpoint->authInit()
+#1 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(51): Hybrid_Endpoint->processAuthStart()
+#2 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(72): Hybrid_Endpoint->__construct(NULL)
+#3 /home/sitocasg/public_html/catalog/controller/extension/d_social_login/callback.php(12): Hybrid_Endpoint::process()
+#4 [internal function]: ControllerExtensionDSocialLoginCallback->index()
+#5 /home/sitocasg/public_html/system/storage/modification/system/engine/action.php(51): call_user_func_array(Array, Array)
+#6 /home/sitocasg/public_html/catalog/controller/startup/router.php(25): Action->execute(Object(Registry))
+#7 [internal function]: ControllerStartupRouter->index()
+#8 in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php on line 217
+[14-Jul-2021 15:22:01 UTC] PHP Fatal error:  Uncaught exception 'Hybrid_Exception' with message 'You cannot access this page directly.' in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php:211
+Stack trace:
+#0 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(117): Hybrid_Endpoint->authInit()
+#1 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(51): Hybrid_Endpoint->processAuthStart()
+#2 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(72): Hybrid_Endpoint->__construct(NULL)
+#3 /home/sitocasg/public_html/catalog/controller/extension/d_social_login/callback.php(12): Hybrid_Endpoint::process()
+#4 [internal function]: ControllerExtensionDSocialLoginCallback->index()
+#5 /home/sitocasg/public_html/system/storage/modification/system/engine/action.php(51): call_user_func_array(Array, Array)
+#6 /home/sitocasg/public_html/catalog/controller/startup/router.php(25): Action->execute(Object(Registry))
+#7 [internal function]: ControllerStartupRouter->index()
+#8 in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php on line 217
+[15-Jul-2021 08:51:02 UTC] PHP Fatal error:  Uncaught exception 'Hybrid_Exception' with message 'You cannot access this page directly.' in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php:211
+Stack trace:
+#0 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(117): Hybrid_Endpoint->authInit()
+#1 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(51): Hybrid_Endpoint->processAuthStart()
+#2 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(72): Hybrid_Endpoint->__construct(NULL)
+#3 /home/sitocasg/public_html/catalog/controller/extension/d_social_login/callback.php(12): Hybrid_Endpoint::process()
+#4 [internal function]: ControllerExtensionDSocialLoginCallback->index()
+#5 /home/sitocasg/public_html/system/storage/modification/system/engine/action.php(51): call_user_func_array(Array, Array)
+#6 /home/sitocasg/public_html/catalog/controller/startup/router.php(25): Action->execute(Object(Registry))
+#7 [internal function]: ControllerStartupRouter->index()
+#8 in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php on line 217
+[18-Jul-2021 22:13:31 UTC] PHP Fatal error:  Uncaught exception 'Hybrid_Exception' with message 'You cannot access this page directly.' in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php:211
+Stack trace:
+#0 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(117): Hybrid_Endpoint->authInit()
+#1 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(51): Hybrid_Endpoint->processAuthStart()
+#2 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(72): Hybrid_Endpoint->__construct(NULL)
+#3 /home/sitocasg/public_html/catalog/controller/extension/d_social_login/callback.php(12): Hybrid_Endpoint::process()
+#4 [internal function]: ControllerExtensionDSocialLoginCallback->index()
+#5 /home/sitocasg/public_html/system/storage/modification/system/engine/action.php(51): call_user_func_array(Array, Array)
+#6 /home/sitocasg/public_html/catalog/controller/startup/router.php(25): Action->execute(Object(Registry))
+#7 [internal function]: ControllerStartupRouter->index()
+#8 in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php on line 217
+[19-Jul-2021 12:31:24 UTC] PHP Fatal error:  Uncaught exception 'Hybrid_Exception' with message 'You cannot access this page directly.' in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php:211
+Stack trace:
+#0 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(117): Hybrid_Endpoint->authInit()
+#1 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(51): Hybrid_Endpoint->processAuthStart()
+#2 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(72): Hybrid_Endpoint->__construct(NULL)
+#3 /home/sitocasg/public_html/catalog/controller/extension/d_social_login/callback.php(12): Hybrid_Endpoint::process()
+#4 [internal function]: ControllerExtensionDSocialLoginCallback->index()
+#5 /home/sitocasg/public_html/system/storage/modification/system/engine/action.php(51): call_user_func_array(Array, Array)
+#6 /home/sitocasg/public_html/catalog/controller/startup/router.php(25): Action->execute(Object(Registry))
+#7 [internal function]: ControllerStartupRouter->index()
+#8 in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php on line 217
+[21-Jul-2021 16:06:44 UTC] PHP Fatal error:  Uncaught exception 'Hybrid_Exception' with message 'You cannot access this page directly.' in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php:211
+Stack trace:
+#0 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(117): Hybrid_Endpoint->authInit()
+#1 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(51): Hybrid_Endpoint->processAuthStart()
+#2 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(72): Hybrid_Endpoint->__construct(NULL)
+#3 /home/sitocasg/public_html/catalog/controller/extension/d_social_login/callback.php(12): Hybrid_Endpoint::process()
+#4 [internal function]: ControllerExtensionDSocialLoginCallback->index()
+#5 /home/sitocasg/public_html/system/storage/modification/system/engine/action.php(51): call_user_func_array(Array, Array)
+#6 /home/sitocasg/public_html/catalog/controller/startup/router.php(25): Action->execute(Object(Registry))
+#7 [internal function]: ControllerStartupRouter->index()
+#8 in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php on line 217
+[22-Jul-2021 14:23:18 UTC] PHP Fatal error:  Uncaught exception 'Hybrid_Exception' with message 'You cannot access this page directly.' in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php:211
+Stack trace:
+#0 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(117): Hybrid_Endpoint->authInit()
+#1 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(51): Hybrid_Endpoint->processAuthStart()
+#2 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(72): Hybrid_Endpoint->__construct(NULL)
+#3 /home/sitocasg/public_html/catalog/controller/extension/d_social_login/callback.php(12): Hybrid_Endpoint::process()
+#4 [internal function]: ControllerExtensionDSocialLoginCallback->index()
+#5 /home/sitocasg/public_html/system/storage/modification/system/engine/action.php(51): call_user_func_array(Array, Array)
+#6 /home/sitocasg/public_html/catalog/controller/startup/router.php(25): Action->execute(Object(Registry))
+#7 [internal function]: ControllerStartupRouter->index()
+#8 in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php on line 217
+[24-Jul-2021 02:27:32 UTC] PHP Fatal error:  Uncaught exception 'Hybrid_Exception' with message 'You cannot access this page directly.' in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php:211
+Stack trace:
+#0 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(117): Hybrid_Endpoint->authInit()
+#1 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(51): Hybrid_Endpoint->processAuthStart()
+#2 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(72): Hybrid_Endpoint->__construct(NULL)
+#3 /home/sitocasg/public_html/catalog/controller/extension/d_social_login/callback.php(12): Hybrid_Endpoint::process()
+#4 [internal function]: ControllerExtensionDSocialLoginCallback->index()
+#5 /home/sitocasg/public_html/system/storage/modification/system/engine/action.php(51): call_user_func_array(Array, Array)
+#6 /home/sitocasg/public_html/catalog/controller/startup/router.php(25): Action->execute(Object(Registry))
+#7 [internal function]: ControllerStartupRouter->index()
+#8 in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php on line 217
+[27-Jul-2021 11:26:55 UTC] PHP Fatal error:  Uncaught exception 'Hybrid_Exception' with message 'You cannot access this page directly.' in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php:211
+Stack trace:
+#0 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(117): Hybrid_Endpoint->authInit()
+#1 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(51): Hybrid_Endpoint->processAuthStart()
+#2 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(72): Hybrid_Endpoint->__construct(NULL)
+#3 /home/sitocasg/public_html/catalog/controller/extension/d_social_login/callback.php(12): Hybrid_Endpoint::process()
+#4 [internal function]: ControllerExtensionDSocialLoginCallback->index()
+#5 /home/sitocasg/public_html/system/storage/modification/system/engine/action.php(51): call_user_func_array(Array, Array)
+#6 /home/sitocasg/public_html/catalog/controller/startup/router.php(25): Action->execute(Object(Registry))
+#7 [internal function]: ControllerStartupRouter->index()
+#8 in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php on line 217
+[29-Jul-2021 05:23:10 UTC] PHP Fatal error:  Uncaught exception 'Hybrid_Exception' with message 'You cannot access this page directly.' in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php:211
+Stack trace:
+#0 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(117): Hybrid_Endpoint->authInit()
+#1 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(51): Hybrid_Endpoint->processAuthStart()
+#2 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(72): Hybrid_Endpoint->__construct(NULL)
+#3 /home/sitocasg/public_html/catalog/controller/extension/d_social_login/callback.php(12): Hybrid_Endpoint::process()
+#4 [internal function]: ControllerExtensionDSocialLoginCallback->index()
+#5 /home/sitocasg/public_html/system/storage/modification/system/engine/action.php(51): call_user_func_array(Array, Array)
+#6 /home/sitocasg/public_html/catalog/controller/startup/router.php(25): Action->execute(Object(Registry))
+#7 [internal function]: ControllerStartupRouter->index()
+#8 in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php on line 217
+[01-Aug-2021 12:46:51 UTC] PHP Fatal error:  Uncaught exception 'Hybrid_Exception' with message 'You cannot access this page directly.' in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php:211
+Stack trace:
+#0 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(117): Hybrid_Endpoint->authInit()
+#1 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(51): Hybrid_Endpoint->processAuthStart()
+#2 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(72): Hybrid_Endpoint->__construct(NULL)
+#3 /home/sitocasg/public_html/catalog/controller/extension/d_social_login/callback.php(12): Hybrid_Endpoint::process()
+#4 [internal function]: ControllerExtensionDSocialLoginCallback->index()
+#5 /home/sitocasg/public_html/system/storage/modification/system/engine/action.php(51): call_user_func_array(Array, Array)
+#6 /home/sitocasg/public_html/catalog/controller/startup/router.php(25): Action->execute(Object(Registry))
+#7 [internal function]: ControllerStartupRouter->index()
+#8 in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php on line 217
+[01-Aug-2021 15:21:56 UTC] PHP Fatal error:  Uncaught exception 'Hybrid_Exception' with message 'You cannot access this page directly.' in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php:211
+Stack trace:
+#0 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(117): Hybrid_Endpoint->authInit()
+#1 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(51): Hybrid_Endpoint->processAuthStart()
+#2 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(72): Hybrid_Endpoint->__construct(NULL)
+#3 /home/sitocasg/public_html/catalog/controller/extension/d_social_login/callback.php(12): Hybrid_Endpoint::process()
+#4 [internal function]: ControllerExtensionDSocialLoginCallback->index()
+#5 /home/sitocasg/public_html/system/storage/modification/system/engine/action.php(51): call_user_func_array(Array, Array)
+#6 /home/sitocasg/public_html/catalog/controller/startup/router.php(25): Action->execute(Object(Registry))
+#7 [internal function]: ControllerStartupRouter->index()
+#8 in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php on line 217
+[05-Aug-2021 07:56:27 UTC] PHP Fatal error:  Uncaught exception 'Hybrid_Exception' with message 'You cannot access this page directly.' in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php:211
+Stack trace:
+#0 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(117): Hybrid_Endpoint->authInit()
+#1 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(51): Hybrid_Endpoint->processAuthStart()
+#2 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(72): Hybrid_Endpoint->__construct(NULL)
+#3 /home/sitocasg/public_html/catalog/controller/extension/d_social_login/callback.php(12): Hybrid_Endpoint::process()
+#4 [internal function]: ControllerExtensionDSocialLoginCallback->index()
+#5 /home/sitocasg/public_html/system/storage/modification/system/engine/action.php(51): call_user_func_array(Array, Array)
+#6 /home/sitocasg/public_html/catalog/controller/startup/router.php(25): Action->execute(Object(Registry))
+#7 [internal function]: ControllerStartupRouter->index()
+#8 in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php on line 217
+[06-Aug-2021 15:58:09 UTC] PHP Fatal error:  Uncaught exception 'Hybrid_Exception' with message 'You cannot access this page directly.' in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php:211
+Stack trace:
+#0 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(117): Hybrid_Endpoint->authInit()
+#1 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(51): Hybrid_Endpoint->processAuthStart()
+#2 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(72): Hybrid_Endpoint->__construct(NULL)
+#3 /home/sitocasg/public_html/catalog/controller/extension/d_social_login/callback.php(12): Hybrid_Endpoint::process()
+#4 [internal function]: ControllerExtensionDSocialLoginCallback->index()
+#5 /home/sitocasg/public_html/system/storage/modification/system/engine/action.php(51): call_user_func_array(Array, Array)
+#6 /home/sitocasg/public_html/catalog/controller/startup/router.php(25): Action->execute(Object(Registry))
+#7 [internal function]: ControllerStartupRouter->index()
+#8 in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php on line 217
+[07-Aug-2021 12:04:26 UTC] PHP Fatal error:  Uncaught exception 'Hybrid_Exception' with message 'You cannot access this page directly.' in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php:211
+Stack trace:
+#0 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(117): Hybrid_Endpoint->authInit()
+#1 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(51): Hybrid_Endpoint->processAuthStart()
+#2 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(72): Hybrid_Endpoint->__construct(NULL)
+#3 /home/sitocasg/public_html/catalog/controller/extension/d_social_login/callback.php(12): Hybrid_Endpoint::process()
+#4 [internal function]: ControllerExtensionDSocialLoginCallback->index()
+#5 /home/sitocasg/public_html/system/storage/modification/system/engine/action.php(51): call_user_func_array(Array, Array)
+#6 /home/sitocasg/public_html/catalog/controller/startup/router.php(25): Action->execute(Object(Registry))
+#7 [internal function]: ControllerStartupRouter->index()
+#8 in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php on line 217
+[08-Aug-2021 03:43:32 UTC] PHP Fatal error:  Uncaught exception 'Hybrid_Exception' with message 'You cannot access this page directly.' in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php:211
+Stack trace:
+#0 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(117): Hybrid_Endpoint->authInit()
+#1 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(51): Hybrid_Endpoint->processAuthStart()
+#2 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(72): Hybrid_Endpoint->__construct(NULL)
+#3 /home/sitocasg/public_html/catalog/controller/extension/d_social_login/callback.php(12): Hybrid_Endpoint::process()
+#4 [internal function]: ControllerExtensionDSocialLoginCallback->index()
+#5 /home/sitocasg/public_html/system/storage/modification/system/engine/action.php(51): call_user_func_array(Array, Array)
+#6 /home/sitocasg/public_html/catalog/controller/startup/router.php(25): Action->execute(Object(Registry))
+#7 [internal function]: ControllerStartupRouter->index()
+#8 in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php on line 217
+[08-Aug-2021 09:04:32 UTC] PHP Fatal error:  Uncaught exception 'Hybrid_Exception' with message 'You cannot access this page directly.' in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php:211
+Stack trace:
+#0 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(117): Hybrid_Endpoint->authInit()
+#1 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(51): Hybrid_Endpoint->processAuthStart()
+#2 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(72): Hybrid_Endpoint->__construct(NULL)
+#3 /home/sitocasg/public_html/catalog/controller/extension/d_social_login/callback.php(12): Hybrid_Endpoint::process()
+#4 [internal function]: ControllerExtensionDSocialLoginCallback->index()
+#5 /home/sitocasg/public_html/system/storage/modification/system/engine/action.php(51): call_user_func_array(Array, Array)
+#6 /home/sitocasg/public_html/catalog/controller/startup/router.php(25): Action->execute(Object(Registry))
+#7 [internal function]: ControllerStartupRouter->index()
+#8 in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php on line 217
+[14-Aug-2021 22:39:21 UTC] PHP Fatal error:  Uncaught exception 'Hybrid_Exception' with message 'You cannot access this page directly.' in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php:211
+Stack trace:
+#0 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(117): Hybrid_Endpoint->authInit()
+#1 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(51): Hybrid_Endpoint->processAuthStart()
+#2 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(72): Hybrid_Endpoint->__construct(NULL)
+#3 /home/sitocasg/public_html/catalog/controller/extension/d_social_login/callback.php(12): Hybrid_Endpoint::process()
+#4 [internal function]: ControllerExtensionDSocialLoginCallback->index()
+#5 /home/sitocasg/public_html/system/storage/modification/system/engine/action.php(51): call_user_func_array(Array, Array)
+#6 /home/sitocasg/public_html/catalog/controller/startup/router.php(25): Action->execute(Object(Registry))
+#7 [internal function]: ControllerStartupRouter->index()
+#8 in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php on line 217
+[19-Aug-2021 13:43:14 UTC] PHP Fatal error:  Uncaught exception 'Hybrid_Exception' with message 'You cannot access this page directly.' in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php:211
+Stack trace:
+#0 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(117): Hybrid_Endpoint->authInit()
+#1 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(51): Hybrid_Endpoint->processAuthStart()
+#2 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(72): Hybrid_Endpoint->__construct(NULL)
+#3 /home/sitocasg/public_html/catalog/controller/extension/d_social_login/callback.php(12): Hybrid_Endpoint::process()
+#4 [internal function]: ControllerExtensionDSocialLoginCallback->index()
+#5 /home/sitocasg/public_html/system/storage/modification/system/engine/action.php(51): call_user_func_array(Array, Array)
+#6 /home/sitocasg/public_html/catalog/controller/startup/router.php(25): Action->execute(Object(Registry))
+#7 [internal function]: ControllerStartupRouter->index()
+#8 in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php on line 217
+[21-Aug-2021 17:17:39 UTC] PHP Fatal error:  Uncaught exception 'Hybrid_Exception' with message 'You cannot access this page directly.' in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php:211
+Stack trace:
+#0 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(117): Hybrid_Endpoint->authInit()
+#1 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(51): Hybrid_Endpoint->processAuthStart()
+#2 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(72): Hybrid_Endpoint->__construct(NULL)
+#3 /home/sitocasg/public_html/catalog/controller/extension/d_social_login/callback.php(12): Hybrid_Endpoint::process()
+#4 [internal function]: ControllerExtensionDSocialLoginCallback->index()
+#5 /home/sitocasg/public_html/system/storage/modification/system/engine/action.php(51): call_user_func_array(Array, Array)
+#6 /home/sitocasg/public_html/catalog/controller/startup/router.php(25): Action->execute(Object(Registry))
+#7 [internal function]: ControllerStartupRouter->index()
+#8 in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php on line 217
+[23-Aug-2021 14:47:41 UTC] PHP Fatal error:  Uncaught exception 'Hybrid_Exception' with message 'You cannot access this page directly.' in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php:211
+Stack trace:
+#0 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(117): Hybrid_Endpoint->authInit()
+#1 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(51): Hybrid_Endpoint->processAuthStart()
+#2 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(72): Hybrid_Endpoint->__construct(NULL)
+#3 /home/sitocasg/public_html/catalog/controller/extension/d_social_login/callback.php(12): Hybrid_Endpoint::process()
+#4 [internal function]: ControllerExtensionDSocialLoginCallback->index()
+#5 /home/sitocasg/public_html/system/storage/modification/system/engine/action.php(51): call_user_func_array(Array, Array)
+#6 /home/sitocasg/public_html/catalog/controller/startup/router.php(25): Action->execute(Object(Registry))
+#7 [internal function]: ControllerStartupRouter->index()
+#8 in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php on line 217
+[23-Aug-2021 20:13:10 UTC] PHP Fatal error:  Uncaught exception 'Hybrid_Exception' with message 'You cannot access this page directly.' in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php:211
+Stack trace:
+#0 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(117): Hybrid_Endpoint->authInit()
+#1 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(51): Hybrid_Endpoint->processAuthStart()
+#2 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(72): Hybrid_Endpoint->__construct(NULL)
+#3 /home/sitocasg/public_html/catalog/controller/extension/d_social_login/callback.php(12): Hybrid_Endpoint::process()
+#4 [internal function]: ControllerExtensionDSocialLoginCallback->index()
+#5 /home/sitocasg/public_html/system/storage/modification/system/engine/action.php(51): call_user_func_array(Array, Array)
+#6 /home/sitocasg/public_html/catalog/controller/startup/router.php(25): Action->execute(Object(Registry))
+#7 [internal function]: ControllerStartupRouter->index()
+#8 in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php on line 217
+[25-Aug-2021 00:25:41 UTC] PHP Fatal error:  Uncaught exception 'Hybrid_Exception' with message 'You cannot access this page directly.' in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php:211
+Stack trace:
+#0 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(117): Hybrid_Endpoint->authInit()
+#1 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(51): Hybrid_Endpoint->processAuthStart()
+#2 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(72): Hybrid_Endpoint->__construct(NULL)
+#3 /home/sitocasg/public_html/catalog/controller/extension/d_social_login/callback.php(12): Hybrid_Endpoint::process()
+#4 [internal function]: ControllerExtensionDSocialLoginCallback->index()
+#5 /home/sitocasg/public_html/system/storage/modification/system/engine/action.php(51): call_user_func_array(Array, Array)
+#6 /home/sitocasg/public_html/catalog/controller/startup/router.php(25): Action->execute(Object(Registry))
+#7 [internal function]: ControllerStartupRouter->index()
+#8 in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php on line 217
+[26-Aug-2021 01:05:41 UTC] PHP Fatal error:  Uncaught exception 'Hybrid_Exception' with message 'You cannot access this page directly.' in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php:211
+Stack trace:
+#0 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(117): Hybrid_Endpoint->authInit()
+#1 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(51): Hybrid_Endpoint->processAuthStart()
+#2 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(72): Hybrid_Endpoint->__construct(NULL)
+#3 /home/sitocasg/public_html/catalog/controller/extension/d_social_login/callback.php(12): Hybrid_Endpoint::process()
+#4 [internal function]: ControllerExtensionDSocialLoginCallback->index()
+#5 /home/sitocasg/public_html/system/storage/modification/system/engine/action.php(51): call_user_func_array(Array, Array)
+#6 /home/sitocasg/public_html/catalog/controller/startup/router.php(25): Action->execute(Object(Registry))
+#7 [internal function]: ControllerStartupRouter->index()
+#8 in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php on line 217
+[27-Aug-2021 13:13:24 UTC] PHP Fatal error:  Uncaught exception 'Hybrid_Exception' with message 'You cannot access this page directly.' in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php:211
+Stack trace:
+#0 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(117): Hybrid_Endpoint->authInit()
+#1 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(51): Hybrid_Endpoint->processAuthStart()
+#2 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(72): Hybrid_Endpoint->__construct(NULL)
+#3 /home/sitocasg/public_html/catalog/controller/extension/d_social_login/callback.php(12): Hybrid_Endpoint::process()
+#4 [internal function]: ControllerExtensionDSocialLoginCallback->index()
+#5 /home/sitocasg/public_html/system/storage/modification/system/engine/action.php(51): call_user_func_array(Array, Array)
+#6 /home/sitocasg/public_html/catalog/controller/startup/router.php(25): Action->execute(Object(Registry))
+#7 [internal function]: ControllerStartupRouter->index()
+#8 in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php on line 217
+[29-Aug-2021 06:21:15 UTC] PHP Fatal error:  Uncaught exception 'Hybrid_Exception' with message 'You cannot access this page directly.' in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php:211
+Stack trace:
+#0 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(117): Hybrid_Endpoint->authInit()
+#1 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(51): Hybrid_Endpoint->processAuthStart()
+#2 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(72): Hybrid_Endpoint->__construct(NULL)
+#3 /home/sitocasg/public_html/catalog/controller/extension/d_social_login/callback.php(12): Hybrid_Endpoint::process()
+#4 [internal function]: ControllerExtensionDSocialLoginCallback->index()
+#5 /home/sitocasg/public_html/system/storage/modification/system/engine/action.php(51): call_user_func_array(Array, Array)
+#6 /home/sitocasg/public_html/catalog/controller/startup/router.php(25): Action->execute(Object(Registry))
+#7 [internal function]: ControllerStartupRouter->index()
+#8 in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php on line 217
+[30-Aug-2021 18:52:38 UTC] PHP Fatal error:  Uncaught exception 'Hybrid_Exception' with message 'You cannot access this page directly.' in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php:211
+Stack trace:
+#0 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(117): Hybrid_Endpoint->authInit()
+#1 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(51): Hybrid_Endpoint->processAuthStart()
+#2 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(72): Hybrid_Endpoint->__construct(NULL)
+#3 /home/sitocasg/public_html/catalog/controller/extension/d_social_login/callback.php(12): Hybrid_Endpoint::process()
+#4 [internal function]: ControllerExtensionDSocialLoginCallback->index()
+#5 /home/sitocasg/public_html/system/storage/modification/system/engine/action.php(51): call_user_func_array(Array, Array)
+#6 /home/sitocasg/public_html/catalog/controller/startup/router.php(25): Action->execute(Object(Registry))
+#7 [internal function]: ControllerStartupRouter->index()
+#8 in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php on line 217
+[31-Aug-2021 22:14:37 UTC] PHP Fatal error:  Uncaught exception 'Hybrid_Exception' with message 'You cannot access this page directly.' in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php:211
+Stack trace:
+#0 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(117): Hybrid_Endpoint->authInit()
+#1 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(51): Hybrid_Endpoint->processAuthStart()
+#2 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(72): Hybrid_Endpoint->__construct(NULL)
+#3 /home/sitocasg/public_html/catalog/controller/extension/d_social_login/callback.php(12): Hybrid_Endpoint::process()
+#4 [internal function]: ControllerExtensionDSocialLoginCallback->index()
+#5 /home/sitocasg/public_html/system/storage/modification/system/engine/action.php(51): call_user_func_array(Array, Array)
+#6 /home/sitocasg/public_html/catalog/controller/startup/router.php(25): Action->execute(Object(Registry))
+#7 [internal function]: ControllerStartupRouter->index()
+#8 in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php on line 217
+[01-Sep-2021 15:25:13 Asia/Singapore] PHP Warning:  unlink(/home/sitocasg/public_html/system/storage/cache/cache.currency.1630479826): No such file or directory in /home/sitocasg/public_html/system/library/cache/file.php on line 17
+[02-Sep-2021 15:27:42 UTC] PHP Fatal error:  Uncaught exception 'Hybrid_Exception' with message 'You cannot access this page directly.' in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php:211
+Stack trace:
+#0 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(117): Hybrid_Endpoint->authInit()
+#1 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(51): Hybrid_Endpoint->processAuthStart()
+#2 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(72): Hybrid_Endpoint->__construct(NULL)
+#3 /home/sitocasg/public_html/catalog/controller/extension/d_social_login/callback.php(12): Hybrid_Endpoint::process()
+#4 [internal function]: ControllerExtensionDSocialLoginCallback->index()
+#5 /home/sitocasg/public_html/system/storage/modification/system/engine/action.php(51): call_user_func_array(Array, Array)
+#6 /home/sitocasg/public_html/catalog/controller/startup/router.php(25): Action->execute(Object(Registry))
+#7 [internal function]: ControllerStartupRouter->index()
+#8 in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php on line 217
+[03-Sep-2021 21:02:59 UTC] PHP Fatal error:  Uncaught exception 'Hybrid_Exception' with message 'You cannot access this page directly.' in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php:211
+Stack trace:
+#0 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(117): Hybrid_Endpoint->authInit()
+#1 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(51): Hybrid_Endpoint->processAuthStart()
+#2 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(72): Hybrid_Endpoint->__construct(NULL)
+#3 /home/sitocasg/public_html/catalog/controller/extension/d_social_login/callback.php(12): Hybrid_Endpoint::process()
+#4 [internal function]: ControllerExtensionDSocialLoginCallback->index()
+#5 /home/sitocasg/public_html/system/storage/modification/system/engine/action.php(51): call_user_func_array(Array, Array)
+#6 /home/sitocasg/public_html/catalog/controller/startup/router.php(25): Action->execute(Object(Registry))
+#7 [internal function]: ControllerStartupRouter->index()
+#8 in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php on line 217
+[06-Sep-2021 05:19:45 UTC] PHP Fatal error:  Uncaught exception 'Hybrid_Exception' with message 'You cannot access this page directly.' in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php:211
+Stack trace:
+#0 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(117): Hybrid_Endpoint->authInit()
+#1 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(51): Hybrid_Endpoint->processAuthStart()
+#2 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(72): Hybrid_Endpoint->__construct(NULL)
+#3 /home/sitocasg/public_html/catalog/controller/extension/d_social_login/callback.php(12): Hybrid_Endpoint::process()
+#4 [internal function]: ControllerExtensionDSocialLoginCallback->index()
+#5 /home/sitocasg/public_html/system/storage/modification/system/engine/action.php(51): call_user_func_array(Array, Array)
+#6 /home/sitocasg/public_html/catalog/controller/startup/router.php(25): Action->execute(Object(Registry))
+#7 [internal function]: ControllerStartupRouter->index()
+#8 in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php on line 217
+[08-Sep-2021 01:10:16 UTC] PHP Fatal error:  Uncaught exception 'Hybrid_Exception' with message 'You cannot access this page directly.' in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php:211
+Stack trace:
+#0 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(117): Hybrid_Endpoint->authInit()
+#1 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(51): Hybrid_Endpoint->processAuthStart()
+#2 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(72): Hybrid_Endpoint->__construct(NULL)
+#3 /home/sitocasg/public_html/catalog/controller/extension/d_social_login/callback.php(12): Hybrid_Endpoint::process()
+#4 [internal function]: ControllerExtensionDSocialLoginCallback->index()
+#5 /home/sitocasg/public_html/system/storage/modification/system/engine/action.php(51): call_user_func_array(Array, Array)
+#6 /home/sitocasg/public_html/catalog/controller/startup/router.php(25): Action->execute(Object(Registry))
+#7 [internal function]: ControllerStartupRouter->index()
+#8 in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php on line 217
+[08-Sep-2021 12:05:49 UTC] PHP Fatal error:  Uncaught exception 'Hybrid_Exception' with message 'You cannot access this page directly.' in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php:211
+Stack trace:
+#0 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(117): Hybrid_Endpoint->authInit()
+#1 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(51): Hybrid_Endpoint->processAuthStart()
+#2 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(72): Hybrid_Endpoint->__construct(NULL)
+#3 /home/sitocasg/public_html/catalog/controller/extension/d_social_login/callback.php(12): Hybrid_Endpoint::process()
+#4 [internal function]: ControllerExtensionDSocialLoginCallback->index()
+#5 /home/sitocasg/public_html/system/storage/modification/system/engine/action.php(51): call_user_func_array(Array, Array)
+#6 /home/sitocasg/public_html/catalog/controller/startup/router.php(25): Action->execute(Object(Registry))
+#7 [internal function]: ControllerStartupRouter->index()
+#8 in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php on line 217
+[08-Sep-2021 15:40:12 UTC] PHP Fatal error:  Uncaught exception 'Hybrid_Exception' with message 'You cannot access this page directly.' in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php:211
+Stack trace:
+#0 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(117): Hybrid_Endpoint->authInit()
+#1 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(51): Hybrid_Endpoint->processAuthStart()
+#2 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(72): Hybrid_Endpoint->__construct(NULL)
+#3 /home/sitocasg/public_html/catalog/controller/extension/d_social_login/callback.php(12): Hybrid_Endpoint::process()
+#4 [internal function]: ControllerExtensionDSocialLoginCallback->index()
+#5 /home/sitocasg/public_html/system/storage/modification/system/engine/action.php(51): call_user_func_array(Array, Array)
+#6 /home/sitocasg/public_html/catalog/controller/startup/router.php(25): Action->execute(Object(Registry))
+#7 [internal function]: ControllerStartupRouter->index()
+#8 in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php on line 217
+[12-Sep-2021 10:35:26 UTC] PHP Fatal error:  Uncaught exception 'Hybrid_Exception' with message 'You cannot access this page directly.' in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php:211
+Stack trace:
+#0 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(117): Hybrid_Endpoint->authInit()
+#1 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(51): Hybrid_Endpoint->processAuthStart()
+#2 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(72): Hybrid_Endpoint->__construct(NULL)
+#3 /home/sitocasg/public_html/catalog/controller/extension/d_social_login/callback.php(12): Hybrid_Endpoint::process()
+#4 [internal function]: ControllerExtensionDSocialLoginCallback->index()
+#5 /home/sitocasg/public_html/system/storage/modification/system/engine/action.php(51): call_user_func_array(Array, Array)
+#6 /home/sitocasg/public_html/catalog/controller/startup/router.php(25): Action->execute(Object(Registry))
+#7 [internal function]: ControllerStartupRouter->index()
+#8 in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php on line 217
+[13-Sep-2021 10:02:25 Asia/Singapore] PHP Warning:  unlink(/home/sitocasg/public_html/system/storage/cache/cache.currency.1631498247): No such file or directory in /home/sitocasg/public_html/system/library/cache/file.php on line 17
+[13-Sep-2021 12:25:03 Asia/Singapore] PHP Warning:  mysqli::mysqli(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/sitocasg/public_html/system/library/db/mysqli.php on line 7
+[13-Sep-2021 12:25:03 Asia/Singapore] PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /home/sitocasg/public_html/system/library/db/mysqli.php on line 10
+[13-Sep-2021 12:25:03 Asia/Singapore] PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /home/sitocasg/public_html/system/library/db/mysqli.php on line 10
+[13-Sep-2021 12:25:03 Asia/Singapore] PHP Fatal error:  Uncaught exception 'Exception' with message 'Error: <br />Error No: ' in /home/sitocasg/public_html/system/library/db/mysqli.php:10
+Stack trace:
+#0 /home/sitocasg/public_html/system/library/db.php(9): DB\MySQLi->__construct('localhost', 'sitocasg_user', '~U9;3|3teh', 'sitocasg_sitoca', '3306')
+#1 /home/sitocasg/public_html/system/framework.php(36): DB->__construct('mysqli', 'localhost', 'sitocasg_user', '~U9;3|3teh', 'sitocasg_sitoca', '3306')
+#2 /home/sitocasg/public_html/system/startup.php(132): require_once('/home/sitocasg/...')
+#3 /home/sitocasg/public_html/index.php(19): start('catalog')
+#4 {main}
+  thrown in /home/sitocasg/public_html/system/library/db/mysqli.php on line 10
+[13-Sep-2021 22:25:15 UTC] PHP Fatal error:  Uncaught exception 'Hybrid_Exception' with message 'You cannot access this page directly.' in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php:211
+Stack trace:
+#0 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(117): Hybrid_Endpoint->authInit()
+#1 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(51): Hybrid_Endpoint->processAuthStart()
+#2 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(72): Hybrid_Endpoint->__construct(NULL)
+#3 /home/sitocasg/public_html/catalog/controller/extension/d_social_login/callback.php(12): Hybrid_Endpoint::process()
+#4 [internal function]: ControllerExtensionDSocialLoginCallback->index()
+#5 /home/sitocasg/public_html/system/storage/modification/system/engine/action.php(51): call_user_func_array(Array, Array)
+#6 /home/sitocasg/public_html/catalog/controller/startup/router.php(25): Action->execute(Object(Registry))
+#7 [internal function]: ControllerStartupRouter->index()
+#8 in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php on line 217
+[14-Sep-2021 09:34:43 UTC] PHP Fatal error:  Uncaught exception 'Hybrid_Exception' with message 'You cannot access this page directly.' in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php:211
+Stack trace:
+#0 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(117): Hybrid_Endpoint->authInit()
+#1 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(51): Hybrid_Endpoint->processAuthStart()
+#2 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(72): Hybrid_Endpoint->__construct(NULL)
+#3 /home/sitocasg/public_html/catalog/controller/extension/d_social_login/callback.php(12): Hybrid_Endpoint::process()
+#4 [internal function]: ControllerExtensionDSocialLoginCallback->index()
+#5 /home/sitocasg/public_html/system/storage/modification/system/engine/action.php(51): call_user_func_array(Array, Array)
+#6 /home/sitocasg/public_html/catalog/controller/startup/router.php(25): Action->execute(Object(Registry))
+#7 [internal function]: ControllerStartupRouter->index()
+#8 in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php on line 217
+[17-Sep-2021 23:03:54 UTC] PHP Fatal error:  Uncaught exception 'Hybrid_Exception' with message 'You cannot access this page directly.' in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php:211
+Stack trace:
+#0 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(117): Hybrid_Endpoint->authInit()
+#1 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(51): Hybrid_Endpoint->processAuthStart()
+#2 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(72): Hybrid_Endpoint->__construct(NULL)
+#3 /home/sitocasg/public_html/catalog/controller/extension/d_social_login/callback.php(12): Hybrid_Endpoint::process()
+#4 [internal function]: ControllerExtensionDSocialLoginCallback->index()
+#5 /home/sitocasg/public_html/system/storage/modification/system/engine/action.php(51): call_user_func_array(Array, Array)
+#6 /home/sitocasg/public_html/catalog/controller/startup/router.php(25): Action->execute(Object(Registry))
+#7 [internal function]: ControllerStartupRouter->index()
+#8 in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php on line 217
+[20-Sep-2021 02:18:49 UTC] PHP Fatal error:  Uncaught exception 'Hybrid_Exception' with message 'You cannot access this page directly.' in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php:211
+Stack trace:
+#0 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(117): Hybrid_Endpoint->authInit()
+#1 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(51): Hybrid_Endpoint->processAuthStart()
+#2 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(72): Hybrid_Endpoint->__construct(NULL)
+#3 /home/sitocasg/public_html/catalog/controller/extension/d_social_login/callback.php(12): Hybrid_Endpoint::process()
+#4 [internal function]: ControllerExtensionDSocialLoginCallback->index()
+#5 /home/sitocasg/public_html/system/storage/modification/system/engine/action.php(51): call_user_func_array(Array, Array)
+#6 /home/sitocasg/public_html/catalog/controller/startup/router.php(25): Action->execute(Object(Registry))
+#7 [internal function]: ControllerStartupRouter->index()
+#8 in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php on line 217
+[30-Sep-2021 02:41:05 Asia/Singapore] PHP Warning:  mysqli::mysqli(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/sitocasg/public_html/system/library/db/mysqli.php on line 7
+[30-Sep-2021 02:41:05 Asia/Singapore] PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /home/sitocasg/public_html/system/library/db/mysqli.php on line 10
+[30-Sep-2021 02:41:05 Asia/Singapore] PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /home/sitocasg/public_html/system/library/db/mysqli.php on line 10
+[30-Sep-2021 02:41:05 Asia/Singapore] PHP Fatal error:  Uncaught exception 'Exception' with message 'Error: <br />Error No: ' in /home/sitocasg/public_html/system/library/db/mysqli.php:10
+Stack trace:
+#0 /home/sitocasg/public_html/system/library/db.php(9): DB\MySQLi->__construct('localhost', 'sitocasg_user', '~U9;3|3teh', 'sitocasg_sitoca', '3306')
+#1 /home/sitocasg/public_html/system/framework.php(36): DB->__construct('mysqli', 'localhost', 'sitocasg_user', '~U9;3|3teh', 'sitocasg_sitoca', '3306')
+#2 /home/sitocasg/public_html/system/startup.php(132): require_once('/home/sitocasg/...')
+#3 /home/sitocasg/public_html/index.php(19): start('catalog')
+#4 {main}
+  thrown in /home/sitocasg/public_html/system/library/db/mysqli.php on line 10
+[03-Oct-2021 01:04:42 UTC] PHP Fatal error:  Uncaught exception 'Hybrid_Exception' with message 'You cannot access this page directly.' in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php:211
+Stack trace:
+#0 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(117): Hybrid_Endpoint->authInit()
+#1 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(51): Hybrid_Endpoint->processAuthStart()
+#2 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(72): Hybrid_Endpoint->__construct(NULL)
+#3 /home/sitocasg/public_html/catalog/controller/extension/d_social_login/callback.php(12): Hybrid_Endpoint::process()
+#4 [internal function]: ControllerExtensionDSocialLoginCallback->index()
+#5 /home/sitocasg/public_html/system/storage/modification/system/engine/action.php(51): call_user_func_array(Array, Array)
+#6 /home/sitocasg/public_html/catalog/controller/startup/router.php(25): Action->execute(Object(Registry))
+#7 [internal function]: ControllerStartupRouter->index()
+#8 in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php on line 217
+[03-Oct-2021 01:44:51 UTC] PHP Fatal error:  Uncaught exception 'Hybrid_Exception' with message 'You cannot access this page directly.' in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php:211
+Stack trace:
+#0 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(117): Hybrid_Endpoint->authInit()
+#1 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(51): Hybrid_Endpoint->processAuthStart()
+#2 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(72): Hybrid_Endpoint->__construct(NULL)
+#3 /home/sitocasg/public_html/catalog/controller/extension/d_social_login/callback.php(12): Hybrid_Endpoint::process()
+#4 [internal function]: ControllerExtensionDSocialLoginCallback->index()
+#5 /home/sitocasg/public_html/system/storage/modification/system/engine/action.php(51): call_user_func_array(Array, Array)
+#6 /home/sitocasg/public_html/catalog/controller/startup/router.php(25): Action->execute(Object(Registry))
+#7 [internal function]: ControllerStartupRouter->index()
+#8 in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php on line 217
+[08-Oct-2021 08:54:50 Asia/Singapore] PHP Warning:  unlink(/home/sitocasg/public_html/system/storage/cache/cache.currency.1633653925): No such file or directory in /home/sitocasg/public_html/system/library/cache/file.php on line 17
+[13-Oct-2021 18:33:58 Asia/Singapore] PHP Warning:  unlink(/home/sitocasg/public_html/system/storage/cache/cache.currency.1634121180): No such file or directory in /home/sitocasg/public_html/system/library/cache/file.php on line 17
+[25-Oct-2021 08:59:54 UTC] PHP Fatal error:  Uncaught exception 'Hybrid_Exception' with message 'You cannot access this page directly.' in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php:211
+Stack trace:
+#0 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(117): Hybrid_Endpoint->authInit()
+#1 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(51): Hybrid_Endpoint->processAuthStart()
+#2 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(72): Hybrid_Endpoint->__construct(NULL)
+#3 /home/sitocasg/public_html/catalog/controller/extension/d_social_login/callback.php(12): Hybrid_Endpoint::process()
+#4 [internal function]: ControllerExtensionDSocialLoginCallback->index()
+#5 /home/sitocasg/public_html/system/storage/modification/system/engine/action.php(51): call_user_func_array(Array, Array)
+#6 /home/sitocasg/public_html/catalog/controller/startup/router.php(25): Action->execute(Object(Registry))
+#7 [internal function]: ControllerStartupRouter->index()
+#8 in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php on line 217
+[01-Nov-2021 11:51:49 UTC] PHP Fatal error:  Uncaught exception 'Hybrid_Exception' with message 'You cannot access this page directly.' in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php:211
+Stack trace:
+#0 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(117): Hybrid_Endpoint->authInit()
+#1 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(51): Hybrid_Endpoint->processAuthStart()
+#2 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(72): Hybrid_Endpoint->__construct(NULL)
+#3 /home/sitocasg/public_html/catalog/controller/extension/d_social_login/callback.php(12): Hybrid_Endpoint::process()
+#4 [internal function]: ControllerExtensionDSocialLoginCallback->index()
+#5 /home/sitocasg/public_html/system/storage/modification/system/engine/action.php(51): call_user_func_array(Array, Array)
+#6 /home/sitocasg/public_html/catalog/controller/startup/router.php(25): Action->execute(Object(Registry))
+#7 [internal function]: ControllerStartupRouter->index()
+#8 in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php on line 217
+[05-Nov-2021 00:04:46 UTC] PHP Fatal error:  Uncaught exception 'Hybrid_Exception' with message 'You cannot access this page directly.' in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php:211
+Stack trace:
+#0 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(117): Hybrid_Endpoint->authInit()
+#1 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(51): Hybrid_Endpoint->processAuthStart()
+#2 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(72): Hybrid_Endpoint->__construct(NULL)
+#3 /home/sitocasg/public_html/catalog/controller/extension/d_social_login/callback.php(12): Hybrid_Endpoint::process()
+#4 [internal function]: ControllerExtensionDSocialLoginCallback->index()
+#5 /home/sitocasg/public_html/system/storage/modification/system/engine/action.php(51): call_user_func_array(Array, Array)
+#6 /home/sitocasg/public_html/catalog/controller/startup/router.php(25): Action->execute(Object(Registry))
+#7 [internal function]: ControllerStartupRouter->index()
+#8 in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php on line 217
+[07-Nov-2021 19:45:09 UTC] PHP Fatal error:  Uncaught exception 'Hybrid_Exception' with message 'You cannot access this page directly.' in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php:211
+Stack trace:
+#0 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(117): Hybrid_Endpoint->authInit()
+#1 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(51): Hybrid_Endpoint->processAuthStart()
+#2 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(72): Hybrid_Endpoint->__construct(NULL)
+#3 /home/sitocasg/public_html/catalog/controller/extension/d_social_login/callback.php(12): Hybrid_Endpoint::process()
+#4 [internal function]: ControllerExtensionDSocialLoginCallback->index()
+#5 /home/sitocasg/public_html/system/storage/modification/system/engine/action.php(51): call_user_func_array(Array, Array)
+#6 /home/sitocasg/public_html/catalog/controller/startup/router.php(25): Action->execute(Object(Registry))
+#7 [internal function]: ControllerStartupRouter->index()
+#8 in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php on line 217
+[20-Nov-2021 07:30:16 Asia/Singapore] PHP Warning:  unlink(/home/sitocasg/public_html/system/storage/cache/cache.language.1637368216): No such file or directory in /home/sitocasg/public_html/system/library/cache/file.php on line 68
+[27-Nov-2021 23:06:58 UTC] PHP Fatal error:  Uncaught exception 'Hybrid_Exception' with message 'You cannot access this page directly.' in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php:211
+Stack trace:
+#0 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(117): Hybrid_Endpoint->authInit()
+#1 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(51): Hybrid_Endpoint->processAuthStart()
+#2 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(72): Hybrid_Endpoint->__construct(NULL)
+#3 /home/sitocasg/public_html/catalog/controller/extension/d_social_login/callback.php(12): Hybrid_Endpoint::process()
+#4 [internal function]: ControllerExtensionDSocialLoginCallback->index()
+#5 /home/sitocasg/public_html/system/storage/modification/system/engine/action.php(51): call_user_func_array(Array, Array)
+#6 /home/sitocasg/public_html/catalog/controller/startup/router.php(25): Action->execute(Object(Registry))
+#7 [internal function]: ControllerStartupRouter->index()
+#8 in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php on line 217
+[28-Nov-2021 19:55:50 UTC] PHP Fatal error:  Uncaught exception 'Hybrid_Exception' with message 'You cannot access this page directly.' in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php:211
+Stack trace:
+#0 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(117): Hybrid_Endpoint->authInit()
+#1 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(51): Hybrid_Endpoint->processAuthStart()
+#2 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(72): Hybrid_Endpoint->__construct(NULL)
+#3 /home/sitocasg/public_html/catalog/controller/extension/d_social_login/callback.php(12): Hybrid_Endpoint::process()
+#4 [internal function]: ControllerExtensionDSocialLoginCallback->index()
+#5 /home/sitocasg/public_html/system/storage/modification/system/engine/action.php(51): call_user_func_array(Array, Array)
+#6 /home/sitocasg/public_html/catalog/controller/startup/router.php(25): Action->execute(Object(Registry))
+#7 [internal function]: ControllerStartupRouter->index()
+#8 in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php on line 217
+[29-Nov-2021 02:53:37 UTC] PHP Fatal error:  Uncaught exception 'Hybrid_Exception' with message 'You cannot access this page directly.' in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php:211
+Stack trace:
+#0 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(117): Hybrid_Endpoint->authInit()
+#1 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(51): Hybrid_Endpoint->processAuthStart()
+#2 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(72): Hybrid_Endpoint->__construct(NULL)
+#3 /home/sitocasg/public_html/catalog/controller/extension/d_social_login/callback.php(12): Hybrid_Endpoint::process()
+#4 [internal function]: ControllerExtensionDSocialLoginCallback->index()
+#5 /home/sitocasg/public_html/system/storage/modification/system/engine/action.php(51): call_user_func_array(Array, Array)
+#6 /home/sitocasg/public_html/catalog/controller/startup/router.php(25): Action->execute(Object(Registry))
+#7 [internal function]: ControllerStartupRouter->index()
+#8 in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php on line 217
+[14-Dec-2021 21:39:07 Asia/Singapore] PHP Warning:  unlink(/home/sitocasg/public_html/system/storage/cache/cache.currency.1639488448): No such file or directory in /home/sitocasg/public_html/system/library/cache/file.php on line 17
+[24-Dec-2021 08:20:12 UTC] PHP Fatal error:  Uncaught exception 'Hybrid_Exception' with message 'You cannot access this page directly.' in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php:211
+Stack trace:
+#0 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(117): Hybrid_Endpoint->authInit()
+#1 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(51): Hybrid_Endpoint->processAuthStart()
+#2 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(72): Hybrid_Endpoint->__construct(NULL)
+#3 /home/sitocasg/public_html/catalog/controller/extension/d_social_login/callback.php(12): Hybrid_Endpoint::process()
+#4 [internal function]: ControllerExtensionDSocialLoginCallback->index()
+#5 /home/sitocasg/public_html/system/storage/modification/system/engine/action.php(51): call_user_func_array(Array, Array)
+#6 /home/sitocasg/public_html/catalog/controller/startup/router.php(25): Action->execute(Object(Registry))
+#7 [internal function]: ControllerStartupRouter->index()
+#8 in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php on line 217
+[26-Dec-2021 06:58:34 Asia/Singapore] PHP Warning:  unlink(/home/sitocasg/public_html/system/storage/cache/cache.currency.1640472156): No such file or directory in /home/sitocasg/public_html/system/library/cache/file.php on line 17
+[04-Jan-2022 15:36:21 UTC] PHP Fatal error:  Uncaught exception 'Hybrid_Exception' with message 'You cannot access this page directly.' in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php:211
+Stack trace:
+#0 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(117): Hybrid_Endpoint->authInit()
+#1 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(51): Hybrid_Endpoint->processAuthStart()
+#2 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(72): Hybrid_Endpoint->__construct(NULL)
+#3 /home/sitocasg/public_html/catalog/controller/extension/d_social_login/callback.php(12): Hybrid_Endpoint::process()
+#4 [internal function]: ControllerExtensionDSocialLoginCallback->index()
+#5 /home/sitocasg/public_html/system/storage/modification/system/engine/action.php(51): call_user_func_array(Array, Array)
+#6 /home/sitocasg/public_html/catalog/controller/startup/router.php(25): Action->execute(Object(Registry))
+#7 [internal function]: ControllerStartupRouter->index()
+#8 in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php on line 217
+[08-Jan-2022 02:27:58 UTC] PHP Fatal error:  Uncaught exception 'Hybrid_Exception' with message 'You cannot access this page directly.' in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php:211
+Stack trace:
+#0 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(117): Hybrid_Endpoint->authInit()
+#1 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(51): Hybrid_Endpoint->processAuthStart()
+#2 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(72): Hybrid_Endpoint->__construct(NULL)
+#3 /home/sitocasg/public_html/catalog/controller/extension/d_social_login/callback.php(12): Hybrid_Endpoint::process()
+#4 [internal function]: ControllerExtensionDSocialLoginCallback->index()
+#5 /home/sitocasg/public_html/system/storage/modification/system/engine/action.php(51): call_user_func_array(Array, Array)
+#6 /home/sitocasg/public_html/catalog/controller/startup/router.php(25): Action->execute(Object(Registry))
+#7 [internal function]: ControllerStartupRouter->index()
+#8 in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php on line 217
+[13-Jan-2022 05:06:52 UTC] PHP Fatal error:  Uncaught exception 'Hybrid_Exception' with message 'You cannot access this page directly.' in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php:211
+Stack trace:
+#0 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(117): Hybrid_Endpoint->authInit()
+#1 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(51): Hybrid_Endpoint->processAuthStart()
+#2 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(72): Hybrid_Endpoint->__construct(NULL)
+#3 /home/sitocasg/public_html/catalog/controller/extension/d_social_login/callback.php(12): Hybrid_Endpoint::process()
+#4 [internal function]: ControllerExtensionDSocialLoginCallback->index()
+#5 /home/sitocasg/public_html/system/storage/modification/system/engine/action.php(51): call_user_func_array(Array, Array)
+#6 /home/sitocasg/public_html/catalog/controller/startup/router.php(25): Action->execute(Object(Registry))
+#7 [internal function]: ControllerStartupRouter->index()
+#8 in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php on line 217
+[14-Jan-2022 16:09:51 UTC] PHP Fatal error:  Uncaught exception 'Hybrid_Exception' with message 'You cannot access this page directly.' in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php:211
+Stack trace:
+#0 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(117): Hybrid_Endpoint->authInit()
+#1 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(51): Hybrid_Endpoint->processAuthStart()
+#2 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(72): Hybrid_Endpoint->__construct(NULL)
+#3 /home/sitocasg/public_html/catalog/controller/extension/d_social_login/callback.php(12): Hybrid_Endpoint::process()
+#4 [internal function]: ControllerExtensionDSocialLoginCallback->index()
+#5 /home/sitocasg/public_html/system/storage/modification/system/engine/action.php(51): call_user_func_array(Array, Array)
+#6 /home/sitocasg/public_html/catalog/controller/startup/router.php(25): Action->execute(Object(Registry))
+#7 [internal function]: ControllerStartupRouter->index()
+#8 in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php on line 217
+[19-Jan-2022 05:38:51 Asia/Singapore] PHP Warning:  unlink(/home/sitocasg/public_html/system/storage/cache/cache.currency.1642541114): No such file or directory in /home/sitocasg/public_html/system/library/cache/file.php on line 17
+[02-Feb-2022 07:40:40 UTC] PHP Fatal error:  Uncaught exception 'Hybrid_Exception' with message 'You cannot access this page directly.' in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php:211
+Stack trace:
+#0 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(117): Hybrid_Endpoint->authInit()
+#1 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(51): Hybrid_Endpoint->processAuthStart()
+#2 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(72): Hybrid_Endpoint->__construct(NULL)
+#3 /home/sitocasg/public_html/catalog/controller/extension/d_social_login/callback.php(12): Hybrid_Endpoint::process()
+#4 [internal function]: ControllerExtensionDSocialLoginCallback->index()
+#5 /home/sitocasg/public_html/system/storage/modification/system/engine/action.php(51): call_user_func_array(Array, Array)
+#6 /home/sitocasg/public_html/catalog/controller/startup/router.php(25): Action->execute(Object(Registry))
+#7 [internal function]: ControllerStartupRouter->index()
+#8 in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php on line 217
+[03-Feb-2022 00:24:59 UTC] PHP Fatal error:  Uncaught exception 'Hybrid_Exception' with message 'You cannot access this page directly.' in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php:211
+Stack trace:
+#0 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(117): Hybrid_Endpoint->authInit()
+#1 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(51): Hybrid_Endpoint->processAuthStart()
+#2 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(72): Hybrid_Endpoint->__construct(NULL)
+#3 /home/sitocasg/public_html/catalog/controller/extension/d_social_login/callback.php(12): Hybrid_Endpoint::process()
+#4 [internal function]: ControllerExtensionDSocialLoginCallback->index()
+#5 /home/sitocasg/public_html/system/storage/modification/system/engine/action.php(51): call_user_func_array(Array, Array)
+#6 /home/sitocasg/public_html/catalog/controller/startup/router.php(25): Action->execute(Object(Registry))
+#7 [internal function]: ControllerStartupRouter->index()
+#8 in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php on line 217
+[05-Feb-2022 23:23:54 UTC] PHP Fatal error:  Uncaught exception 'Hybrid_Exception' with message 'You cannot access this page directly.' in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php:211
+Stack trace:
+#0 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(117): Hybrid_Endpoint->authInit()
+#1 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(51): Hybrid_Endpoint->processAuthStart()
+#2 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(72): Hybrid_Endpoint->__construct(NULL)
+#3 /home/sitocasg/public_html/catalog/controller/extension/d_social_login/callback.php(12): Hybrid_Endpoint::process()
+#4 [internal function]: ControllerExtensionDSocialLoginCallback->index()
+#5 /home/sitocasg/public_html/system/storage/modification/system/engine/action.php(51): call_user_func_array(Array, Array)
+#6 /home/sitocasg/public_html/catalog/controller/startup/router.php(25): Action->execute(Object(Registry))
+#7 [internal function]: ControllerStartupRouter->index()
+#8 in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php on line 217
+[08-Feb-2022 23:20:27 UTC] PHP Fatal error:  Uncaught exception 'Hybrid_Exception' with message 'You cannot access this page directly.' in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php:211
+Stack trace:
+#0 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(117): Hybrid_Endpoint->authInit()
+#1 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(51): Hybrid_Endpoint->processAuthStart()
+#2 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(72): Hybrid_Endpoint->__construct(NULL)
+#3 /home/sitocasg/public_html/catalog/controller/extension/d_social_login/callback.php(12): Hybrid_Endpoint::process()
+#4 [internal function]: ControllerExtensionDSocialLoginCallback->index()
+#5 /home/sitocasg/public_html/system/storage/modification/system/engine/action.php(51): call_user_func_array(Array, Array)
+#6 /home/sitocasg/public_html/catalog/controller/startup/router.php(25): Action->execute(Object(Registry))
+#7 [internal function]: ControllerStartupRouter->index()
+#8 in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php on line 217
+[12-Feb-2022 05:20:36 UTC] PHP Fatal error:  Uncaught exception 'Hybrid_Exception' with message 'You cannot access this page directly.' in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php:211
+Stack trace:
+#0 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(117): Hybrid_Endpoint->authInit()
+#1 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(51): Hybrid_Endpoint->processAuthStart()
+#2 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(72): Hybrid_Endpoint->__construct(NULL)
+#3 /home/sitocasg/public_html/catalog/controller/extension/d_social_login/callback.php(12): Hybrid_Endpoint::process()
+#4 [internal function]: ControllerExtensionDSocialLoginCallback->index()
+#5 /home/sitocasg/public_html/system/storage/modification/system/engine/action.php(51): call_user_func_array(Array, Array)
+#6 /home/sitocasg/public_html/catalog/controller/startup/router.php(25): Action->execute(Object(Registry))
+#7 [internal function]: ControllerStartupRouter->index()
+#8 in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php on line 217
+[18-Feb-2022 12:02:24 UTC] PHP Fatal error:  Uncaught exception 'Hybrid_Exception' with message 'You cannot access this page directly.' in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php:211
+Stack trace:
+#0 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(117): Hybrid_Endpoint->authInit()
+#1 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(51): Hybrid_Endpoint->processAuthStart()
+#2 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(72): Hybrid_Endpoint->__construct(NULL)
+#3 /home/sitocasg/public_html/catalog/controller/extension/d_social_login/callback.php(12): Hybrid_Endpoint::process()
+#4 [internal function]: ControllerExtensionDSocialLoginCallback->index()
+#5 /home/sitocasg/public_html/system/storage/modification/system/engine/action.php(51): call_user_func_array(Array, Array)
+#6 /home/sitocasg/public_html/catalog/controller/startup/router.php(25): Action->execute(Object(Registry))
+#7 [internal function]: ControllerStartupRouter->index()
+#8 in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php on line 217
+[27-Feb-2022 02:53:50 UTC] PHP Fatal error:  Uncaught exception 'Hybrid_Exception' with message 'You cannot access this page directly.' in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php:211
+Stack trace:
+#0 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(117): Hybrid_Endpoint->authInit()
+#1 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(51): Hybrid_Endpoint->processAuthStart()
+#2 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(72): Hybrid_Endpoint->__construct(NULL)
+#3 /home/sitocasg/public_html/catalog/controller/extension/d_social_login/callback.php(12): Hybrid_Endpoint::process()
+#4 [internal function]: ControllerExtensionDSocialLoginCallback->index()
+#5 /home/sitocasg/public_html/system/storage/modification/system/engine/action.php(51): call_user_func_array(Array, Array)
+#6 /home/sitocasg/public_html/catalog/controller/startup/router.php(25): Action->execute(Object(Registry))
+#7 [internal function]: ControllerStartupRouter->index()
+#8 in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php on line 217
+[27-Feb-2022 13:23:41 UTC] PHP Fatal error:  Uncaught exception 'Hybrid_Exception' with message 'You cannot access this page directly.' in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php:211
+Stack trace:
+#0 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(117): Hybrid_Endpoint->authInit()
+#1 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(51): Hybrid_Endpoint->processAuthStart()
+#2 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(72): Hybrid_Endpoint->__construct(NULL)
+#3 /home/sitocasg/public_html/catalog/controller/extension/d_social_login/callback.php(12): Hybrid_Endpoint::process()
+#4 [internal function]: ControllerExtensionDSocialLoginCallback->index()
+#5 /home/sitocasg/public_html/system/storage/modification/system/engine/action.php(51): call_user_func_array(Array, Array)
+#6 /home/sitocasg/public_html/catalog/controller/startup/router.php(25): Action->execute(Object(Registry))
+#7 [internal function]: ControllerStartupRouter->index()
+#8 in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php on line 217
+[28-Feb-2022 21:45:57 UTC] PHP Fatal error:  Uncaught exception 'Hybrid_Exception' with message 'You cannot access this page directly.' in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php:211
+Stack trace:
+#0 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(117): Hybrid_Endpoint->authInit()
+#1 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(51): Hybrid_Endpoint->processAuthStart()
+#2 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(72): Hybrid_Endpoint->__construct(NULL)
+#3 /home/sitocasg/public_html/catalog/controller/extension/d_social_login/callback.php(12): Hybrid_Endpoint::process()
+#4 [internal function]: ControllerExtensionDSocialLoginCallback->index()
+#5 /home/sitocasg/public_html/system/storage/modification/system/engine/action.php(51): call_user_func_array(Array, Array)
+#6 /home/sitocasg/public_html/catalog/controller/startup/router.php(25): Action->execute(Object(Registry))
+#7 [internal function]: ControllerStartupRouter->index()
+#8 in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php on line 217
+[01-Mar-2022 15:29:44 UTC] PHP Fatal error:  Uncaught exception 'Hybrid_Exception' with message 'You cannot access this page directly.' in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php:211
+Stack trace:
+#0 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(117): Hybrid_Endpoint->authInit()
+#1 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(51): Hybrid_Endpoint->processAuthStart()
+#2 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(72): Hybrid_Endpoint->__construct(NULL)
+#3 /home/sitocasg/public_html/catalog/controller/extension/d_social_login/callback.php(12): Hybrid_Endpoint::process()
+#4 [internal function]: ControllerExtensionDSocialLoginCallback->index()
+#5 /home/sitocasg/public_html/system/storage/modification/system/engine/action.php(51): call_user_func_array(Array, Array)
+#6 /home/sitocasg/public_html/catalog/controller/startup/router.php(25): Action->execute(Object(Registry))
+#7 [internal function]: ControllerStartupRouter->index()
+#8 in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php on line 217
+[06-Mar-2022 11:37:09 UTC] PHP Fatal error:  Uncaught exception 'Hybrid_Exception' with message 'You cannot access this page directly.' in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php:211
+Stack trace:
+#0 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(117): Hybrid_Endpoint->authInit()
+#1 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(51): Hybrid_Endpoint->processAuthStart()
+#2 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(72): Hybrid_Endpoint->__construct(NULL)
+#3 /home/sitocasg/public_html/catalog/controller/extension/d_social_login/callback.php(12): Hybrid_Endpoint::process()
+#4 [internal function]: ControllerExtensionDSocialLoginCallback->index()
+#5 /home/sitocasg/public_html/system/storage/modification/system/engine/action.php(51): call_user_func_array(Array, Array)
+#6 /home/sitocasg/public_html/catalog/controller/startup/router.php(25): Action->execute(Object(Registry))
+#7 [internal function]: ControllerStartupRouter->index()
+#8 in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php on line 217
+[23-Mar-2022 01:58:41 UTC] PHP Fatal error:  Uncaught exception 'Hybrid_Exception' with message 'You cannot access this page directly.' in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php:211
+Stack trace:
+#0 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(117): Hybrid_Endpoint->authInit()
+#1 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(51): Hybrid_Endpoint->processAuthStart()
+#2 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(72): Hybrid_Endpoint->__construct(NULL)
+#3 /home/sitocasg/public_html/catalog/controller/extension/d_social_login/callback.php(12): Hybrid_Endpoint::process()
+#4 [internal function]: ControllerExtensionDSocialLoginCallback->index()
+#5 /home/sitocasg/public_html/system/storage/modification/system/engine/action.php(51): call_user_func_array(Array, Array)
+#6 /home/sitocasg/public_html/catalog/controller/startup/router.php(25): Action->execute(Object(Registry))
+#7 [internal function]: ControllerStartupRouter->index()
+#8 in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php on line 217
+[24-Mar-2022 00:56:42 UTC] PHP Fatal error:  Uncaught exception 'Hybrid_Exception' with message 'You cannot access this page directly.' in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php:211
+Stack trace:
+#0 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(117): Hybrid_Endpoint->authInit()
+#1 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(51): Hybrid_Endpoint->processAuthStart()
+#2 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(72): Hybrid_Endpoint->__construct(NULL)
+#3 /home/sitocasg/public_html/catalog/controller/extension/d_social_login/callback.php(12): Hybrid_Endpoint::process()
+#4 [internal function]: ControllerExtensionDSocialLoginCallback->index()
+#5 /home/sitocasg/public_html/system/storage/modification/system/engine/action.php(51): call_user_func_array(Array, Array)
+#6 /home/sitocasg/public_html/catalog/controller/startup/router.php(25): Action->execute(Object(Registry))
+#7 [internal function]: ControllerStartupRouter->index()
+#8 in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php on line 217
+[24-Mar-2022 01:01:22 UTC] PHP Fatal error:  Uncaught exception 'Hybrid_Exception' with message 'You cannot access this page directly.' in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php:211
+Stack trace:
+#0 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(117): Hybrid_Endpoint->authInit()
+#1 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(51): Hybrid_Endpoint->processAuthStart()
+#2 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(72): Hybrid_Endpoint->__construct(NULL)
+#3 /home/sitocasg/public_html/catalog/controller/extension/d_social_login/callback.php(12): Hybrid_Endpoint::process()
+#4 [internal function]: ControllerExtensionDSocialLoginCallback->index()
+#5 /home/sitocasg/public_html/system/storage/modification/system/engine/action.php(51): call_user_func_array(Array, Array)
+#6 /home/sitocasg/public_html/catalog/controller/startup/router.php(25): Action->execute(Object(Registry))
+#7 [internal function]: ControllerStartupRouter->index()
+#8 in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php on line 217
+[08-Apr-2022 19:09:25 UTC] PHP Fatal error:  Uncaught exception 'Hybrid_Exception' with message 'You cannot access this page directly.' in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php:211
+Stack trace:
+#0 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(117): Hybrid_Endpoint->authInit()
+#1 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(51): Hybrid_Endpoint->processAuthStart()
+#2 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(72): Hybrid_Endpoint->__construct(NULL)
+#3 /home/sitocasg/public_html/catalog/controller/extension/d_social_login/callback.php(12): Hybrid_Endpoint::process()
+#4 [internal function]: ControllerExtensionDSocialLoginCallback->index()
+#5 /home/sitocasg/public_html/system/storage/modification/system/engine/action.php(51): call_user_func_array(Array, Array)
+#6 /home/sitocasg/public_html/catalog/controller/startup/router.php(25): Action->execute(Object(Registry))
+#7 [internal function]: ControllerStartupRouter->index()
+#8 in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php on line 217
+[10-Apr-2022 12:23:12 UTC] PHP Fatal error:  Uncaught exception 'Hybrid_Exception' with message 'You cannot access this page directly.' in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php:211
+Stack trace:
+#0 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(117): Hybrid_Endpoint->authInit()
+#1 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(51): Hybrid_Endpoint->processAuthStart()
+#2 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(72): Hybrid_Endpoint->__construct(NULL)
+#3 /home/sitocasg/public_html/catalog/controller/extension/d_social_login/callback.php(12): Hybrid_Endpoint::process()
+#4 [internal function]: ControllerExtensionDSocialLoginCallback->index()
+#5 /home/sitocasg/public_html/system/storage/modification/system/engine/action.php(51): call_user_func_array(Array, Array)
+#6 /home/sitocasg/public_html/catalog/controller/startup/router.php(25): Action->execute(Object(Registry))
+#7 [internal function]: ControllerStartupRouter->index()
+#8 in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php on line 217
+[18-Apr-2022 12:59:23 UTC] PHP Fatal error:  Uncaught exception 'Hybrid_Exception' with message 'You cannot access this page directly.' in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php:211
+Stack trace:
+#0 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(117): Hybrid_Endpoint->authInit()
+#1 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(51): Hybrid_Endpoint->processAuthStart()
+#2 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(72): Hybrid_Endpoint->__construct(NULL)
+#3 /home/sitocasg/public_html/catalog/controller/extension/d_social_login/callback.php(12): Hybrid_Endpoint::process()
+#4 [internal function]: ControllerExtensionDSocialLoginCallback->index()
+#5 /home/sitocasg/public_html/system/storage/modification/system/engine/action.php(51): call_user_func_array(Array, Array)
+#6 /home/sitocasg/public_html/catalog/controller/startup/router.php(25): Action->execute(Object(Registry))
+#7 [internal function]: ControllerStartupRouter->index()
+#8 in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php on line 217
+[21-Apr-2022 17:16:32 Asia/Singapore] PHP Warning:  unlink(/home/sitocasg/public_html/system/storage/cache/cache.currency.1650532457): No such file or directory in /home/sitocasg/public_html/system/library/cache/file.php on line 17
+[26-Apr-2022 05:08:47 UTC] PHP Fatal error:  Uncaught exception 'Hybrid_Exception' with message 'You cannot access this page directly.' in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php:211
+Stack trace:
+#0 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(117): Hybrid_Endpoint->authInit()
+#1 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(51): Hybrid_Endpoint->processAuthStart()
+#2 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(72): Hybrid_Endpoint->__construct(NULL)
+#3 /home/sitocasg/public_html/catalog/controller/extension/d_social_login/callback.php(12): Hybrid_Endpoint::process()
+#4 [internal function]: ControllerExtensionDSocialLoginCallback->index()
+#5 /home/sitocasg/public_html/system/storage/modification/system/engine/action.php(51): call_user_func_array(Array, Array)
+#6 /home/sitocasg/public_html/catalog/controller/startup/router.php(25): Action->execute(Object(Registry))
+#7 [internal function]: ControllerStartupRouter->index()
+#8 in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php on line 217
+[27-Apr-2022 03:19:28 Asia/Singapore] PHP Warning:  unlink(/home/sitocasg/public_html/system/storage/cache/cache.currency.1651000325): No such file or directory in /home/sitocasg/public_html/system/library/cache/file.php on line 17
+[27-Apr-2022 03:25:58 UTC] PHP Fatal error:  Uncaught exception 'Hybrid_Exception' with message 'You cannot access this page directly.' in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php:211
+Stack trace:
+#0 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(117): Hybrid_Endpoint->authInit()
+#1 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(51): Hybrid_Endpoint->processAuthStart()
+#2 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(72): Hybrid_Endpoint->__construct(NULL)
+#3 /home/sitocasg/public_html/catalog/controller/extension/d_social_login/callback.php(12): Hybrid_Endpoint::process()
+#4 [internal function]: ControllerExtensionDSocialLoginCallback->index()
+#5 /home/sitocasg/public_html/system/storage/modification/system/engine/action.php(51): call_user_func_array(Array, Array)
+#6 /home/sitocasg/public_html/catalog/controller/startup/router.php(25): Action->execute(Object(Registry))
+#7 [internal function]: ControllerStartupRouter->index()
+#8 in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php on line 217
+[30-Apr-2022 14:46:14 Asia/Singapore] PHP Warning:  unlink(/home/sitocasg/public_html/system/storage/cache/cache.currency.1651300799): No such file or directory in /home/sitocasg/public_html/system/library/cache/file.php on line 17
+[01-May-2022 21:15:59 Asia/Singapore] PHP Warning:  unlink(/home/sitocasg/public_html/system/storage/cache/cache.currency.1651409787): No such file or directory in /home/sitocasg/public_html/system/library/cache/file.php on line 17
+[04-May-2022 17:33:51 UTC] PHP Fatal error:  Uncaught exception 'Hybrid_Exception' with message 'You cannot access this page directly.' in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php:211
+Stack trace:
+#0 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(117): Hybrid_Endpoint->authInit()
+#1 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(51): Hybrid_Endpoint->processAuthStart()
+#2 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(72): Hybrid_Endpoint->__construct(NULL)
+#3 /home/sitocasg/public_html/catalog/controller/extension/d_social_login/callback.php(12): Hybrid_Endpoint::process()
+#4 [internal function]: ControllerExtensionDSocialLoginCallback->index()
+#5 /home/sitocasg/public_html/system/storage/modification/system/engine/action.php(51): call_user_func_array(Array, Array)
+#6 /home/sitocasg/public_html/catalog/controller/startup/router.php(25): Action->execute(Object(Registry))
+#7 [internal function]: ControllerStartupRouter->index()
+#8 in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php on line 217
+[04-May-2022 17:38:47 UTC] PHP Fatal error:  Uncaught exception 'Hybrid_Exception' with message 'You cannot access this page directly.' in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php:211
+Stack trace:
+#0 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(117): Hybrid_Endpoint->authInit()
+#1 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(51): Hybrid_Endpoint->processAuthStart()
+#2 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(72): Hybrid_Endpoint->__construct(NULL)
+#3 /home/sitocasg/public_html/catalog/controller/extension/d_social_login/callback.php(12): Hybrid_Endpoint::process()
+#4 [internal function]: ControllerExtensionDSocialLoginCallback->index()
+#5 /home/sitocasg/public_html/system/storage/modification/system/engine/action.php(51): call_user_func_array(Array, Array)
+#6 /home/sitocasg/public_html/catalog/controller/startup/router.php(25): Action->execute(Object(Registry))
+#7 [internal function]: ControllerStartupRouter->index()
+#8 in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php on line 217
+[05-May-2022 19:31:16 Asia/Singapore] PHP Warning:  unlink(/home/sitocasg/public_html/system/storage/cache/cache.currency.1651749766): No such file or directory in /home/sitocasg/public_html/system/library/cache/file.php on line 17
+[10-May-2022 13:36:25 Asia/Singapore] PHP Warning:  unlink(/home/sitocasg/public_html/system/storage/cache/cache.currency.1652159509): No such file or directory in /home/sitocasg/public_html/system/library/cache/file.php on line 17
+[13-May-2022 04:44:13 Asia/Singapore] PHP Warning:  unlink(/home/sitocasg/public_html/system/storage/cache/cache.currency.1652386996): No such file or directory in /home/sitocasg/public_html/system/library/cache/file.php on line 17
+[16-May-2022 12:57:22 UTC] PHP Fatal error:  Uncaught exception 'Hybrid_Exception' with message 'You cannot access this page directly.' in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php:211
+Stack trace:
+#0 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(117): Hybrid_Endpoint->authInit()
+#1 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(51): Hybrid_Endpoint->processAuthStart()
+#2 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(72): Hybrid_Endpoint->__construct(NULL)
+#3 /home/sitocasg/public_html/catalog/controller/extension/d_social_login/callback.php(12): Hybrid_Endpoint::process()
+#4 [internal function]: ControllerExtensionDSocialLoginCallback->index()
+#5 /home/sitocasg/public_html/system/storage/modification/system/engine/action.php(51): call_user_func_array(Array, Array)
+#6 /home/sitocasg/public_html/catalog/controller/startup/router.php(25): Action->execute(Object(Registry))
+#7 [internal function]: ControllerStartupRouter->index()
+#8 in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php on line 217
+[16-May-2022 13:03:30 UTC] PHP Fatal error:  Uncaught exception 'Hybrid_Exception' with message 'You cannot access this page directly.' in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php:211
+Stack trace:
+#0 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(117): Hybrid_Endpoint->authInit()
+#1 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(51): Hybrid_Endpoint->processAuthStart()
+#2 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(72): Hybrid_Endpoint->__construct(NULL)
+#3 /home/sitocasg/public_html/catalog/controller/extension/d_social_login/callback.php(12): Hybrid_Endpoint::process()
+#4 [internal function]: ControllerExtensionDSocialLoginCallback->index()
+#5 /home/sitocasg/public_html/system/storage/modification/system/engine/action.php(51): call_user_func_array(Array, Array)
+#6 /home/sitocasg/public_html/catalog/controller/startup/router.php(25): Action->execute(Object(Registry))
+#7 [internal function]: ControllerStartupRouter->index()
+#8 in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php on line 217
+[22-May-2022 23:07:53 Asia/Singapore] PHP Warning:  unlink(/home/sitocasg/public_html/system/storage/cache/cache.currency.1653231889): No such file or directory in /home/sitocasg/public_html/system/library/cache/file.php on line 17
+[02-Jun-2022 19:16:36 UTC] PHP Fatal error:  Uncaught exception 'Hybrid_Exception' with message 'You cannot access this page directly.' in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php:211
+Stack trace:
+#0 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(117): Hybrid_Endpoint->authInit()
+#1 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(51): Hybrid_Endpoint->processAuthStart()
+#2 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(72): Hybrid_Endpoint->__construct(NULL)
+#3 /home/sitocasg/public_html/catalog/controller/extension/d_social_login/callback.php(12): Hybrid_Endpoint::process()
+#4 [internal function]: ControllerExtensionDSocialLoginCallback->index()
+#5 /home/sitocasg/public_html/system/storage/modification/system/engine/action.php(51): call_user_func_array(Array, Array)
+#6 /home/sitocasg/public_html/catalog/controller/startup/router.php(25): Action->execute(Object(Registry))
+#7 [internal function]: ControllerStartupRouter->index()
+#8 in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php on line 217
+[02-Jun-2022 20:21:10 UTC] PHP Fatal error:  Uncaught exception 'Hybrid_Exception' with message 'You cannot access this page directly.' in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php:211
+Stack trace:
+#0 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(117): Hybrid_Endpoint->authInit()
+#1 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(51): Hybrid_Endpoint->processAuthStart()
+#2 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(72): Hybrid_Endpoint->__construct(NULL)
+#3 /home/sitocasg/public_html/catalog/controller/extension/d_social_login/callback.php(12): Hybrid_Endpoint::process()
+#4 [internal function]: ControllerExtensionDSocialLoginCallback->index()
+#5 /home/sitocasg/public_html/system/storage/modification/system/engine/action.php(51): call_user_func_array(Array, Array)
+#6 /home/sitocasg/public_html/catalog/controller/startup/router.php(25): Action->execute(Object(Registry))
+#7 [internal function]: ControllerStartupRouter->index()
+#8 in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php on line 217
+[04-Jun-2022 18:48:28 Asia/Singapore] PHP Warning:  unlink(/home/sitocasg/public_html/system/storage/cache/cache.currency.1654336202): No such file or directory in /home/sitocasg/public_html/system/library/cache/file.php on line 17
+[12-Jun-2022 20:53:36 Asia/Singapore] PHP Warning:  unlink(/home/sitocasg/public_html/system/storage/cache/cache.currency.1655036775): No such file or directory in /home/sitocasg/public_html/system/library/cache/file.php on line 17
+[23-Jun-2022 09:07:49 Asia/Singapore] PHP Warning:  unlink(/home/sitocasg/public_html/system/storage/cache/cache.currency.1655946285): No such file or directory in /home/sitocasg/public_html/system/library/cache/file.php on line 17
+[11-Jul-2022 01:49:16 Asia/Singapore] PHP Warning:  unlink(/home/sitocasg/public_html/system/storage/cache/cache.currency.1657474588): No such file or directory in /home/sitocasg/public_html/system/library/cache/file.php on line 17
+[28-Jul-2022 04:50:52 Asia/Singapore] PHP Warning:  unlink(/home/sitocasg/public_html/system/storage/cache/cache.country.catalog.1658955045): No such file or directory in /home/sitocasg/public_html/system/library/cache/file.php on line 17
+[21-Aug-2022 22:10:16 Asia/Singapore] PHP Warning:  unlink(/home/sitocasg/public_html/system/storage/cache/cache.currency.1661090953): No such file or directory in /home/sitocasg/public_html/system/library/cache/file.php on line 17
+[26-Aug-2022 02:37:27 Asia/Singapore] PHP Warning:  unlink(/home/sitocasg/public_html/system/storage/cache/cache.currency.1661451829): No such file or directory in /home/sitocasg/public_html/system/library/cache/file.php on line 17
+[01-Sep-2022 16:48:50 Asia/Singapore] PHP Warning:  unlink(/home/sitocasg/public_html/system/storage/cache/cache.currency.1662021995): No such file or directory in /home/sitocasg/public_html/system/library/cache/file.php on line 17
+[05-Sep-2022 04:48:04 Asia/Singapore] PHP Warning:  unlink(/home/sitocasg/public_html/system/storage/cache/cache.currency.1662324021): No such file or directory in /home/sitocasg/public_html/system/library/cache/file.php on line 17
+[06-Sep-2022 02:04:48 UTC] PHP Fatal error:  Uncaught exception 'Hybrid_Exception' with message 'You cannot access this page directly.' in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php:211
+Stack trace:
+#0 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(117): Hybrid_Endpoint->authInit()
+#1 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(51): Hybrid_Endpoint->processAuthStart()
+#2 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(72): Hybrid_Endpoint->__construct(NULL)
+#3 /home/sitocasg/public_html/catalog/controller/extension/d_social_login/callback.php(12): Hybrid_Endpoint::process()
+#4 [internal function]: ControllerExtensionDSocialLoginCallback->index()
+#5 /home/sitocasg/public_html/system/storage/modification/system/engine/action.php(51): call_user_func_array(Array, Array)
+#6 /home/sitocasg/public_html/catalog/controller/startup/router.php(25): Action->execute(Object(Registry))
+#7 [internal function]: ControllerStartupRouter->index()
+#8 in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php on line 217
+[24-Sep-2022 20:12:49 UTC] PHP Fatal error:  Uncaught exception 'Hybrid_Exception' with message 'You cannot access this page directly.' in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php:211
+Stack trace:
+#0 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(117): Hybrid_Endpoint->authInit()
+#1 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(51): Hybrid_Endpoint->processAuthStart()
+#2 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(72): Hybrid_Endpoint->__construct(NULL)
+#3 /home/sitocasg/public_html/catalog/controller/extension/d_social_login/callback.php(12): Hybrid_Endpoint::process()
+#4 [internal function]: ControllerExtensionDSocialLoginCallback->index()
+#5 /home/sitocasg/public_html/system/storage/modification/system/engine/action.php(51): call_user_func_array(Array, Array)
+#6 /home/sitocasg/public_html/catalog/controller/startup/router.php(25): Action->execute(Object(Registry))
+#7 [internal function]: ControllerStartupRouter->index()
+#8 in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php on line 217
+[02-Oct-2022 23:03:58 UTC] PHP Fatal error:  Uncaught exception 'Hybrid_Exception' with message 'You cannot access this page directly.' in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php:211
+Stack trace:
+#0 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(117): Hybrid_Endpoint->authInit()
+#1 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(51): Hybrid_Endpoint->processAuthStart()
+#2 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(72): Hybrid_Endpoint->__construct(NULL)
+#3 /home/sitocasg/public_html/catalog/controller/extension/d_social_login/callback.php(12): Hybrid_Endpoint::process()
+#4 [internal function]: ControllerExtensionDSocialLoginCallback->index()
+#5 /home/sitocasg/public_html/system/storage/modification/system/engine/action.php(51): call_user_func_array(Array, Array)
+#6 /home/sitocasg/public_html/catalog/controller/startup/router.php(25): Action->execute(Object(Registry))
+#7 [internal function]: ControllerStartupRouter->index()
+#8 in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php on line 217
+[02-Oct-2022 23:36:55 UTC] PHP Fatal error:  Uncaught exception 'Hybrid_Exception' with message 'You cannot access this page directly.' in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php:211
+Stack trace:
+#0 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(117): Hybrid_Endpoint->authInit()
+#1 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(51): Hybrid_Endpoint->processAuthStart()
+#2 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(72): Hybrid_Endpoint->__construct(NULL)
+#3 /home/sitocasg/public_html/catalog/controller/extension/d_social_login/callback.php(12): Hybrid_Endpoint::process()
+#4 [internal function]: ControllerExtensionDSocialLoginCallback->index()
+#5 /home/sitocasg/public_html/system/storage/modification/system/engine/action.php(51): call_user_func_array(Array, Array)
+#6 /home/sitocasg/public_html/catalog/controller/startup/router.php(25): Action->execute(Object(Registry))
+#7 [internal function]: ControllerStartupRouter->index()
+#8 in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php on line 217
+[15-Oct-2022 05:43:03 Asia/Singapore] PHP Warning:  unlink(/home/sitocasg/public_html/system/storage/cache/cache.currency.1665783041): No such file or directory in /home/sitocasg/public_html/system/library/cache/file.php on line 17
+[19-Nov-2022 16:45:55 UTC] PHP Fatal error:  Uncaught exception 'Hybrid_Exception' with message 'You cannot access this page directly.' in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php:211
+Stack trace:
+#0 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(117): Hybrid_Endpoint->authInit()
+#1 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(51): Hybrid_Endpoint->processAuthStart()
+#2 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(72): Hybrid_Endpoint->__construct(NULL)
+#3 /home/sitocasg/public_html/catalog/controller/extension/d_social_login/callback.php(12): Hybrid_Endpoint::process()
+#4 [internal function]: ControllerExtensionDSocialLoginCallback->index()
+#5 /home/sitocasg/public_html/system/storage/modification/system/engine/action.php(51): call_user_func_array(Array, Array)
+#6 /home/sitocasg/public_html/catalog/controller/startup/router.php(25): Action->execute(Object(Registry))
+#7 [internal function]: ControllerStartupRouter->index()
+#8 in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php on line 217
+[22-Dec-2022 02:20:08 UTC] PHP Fatal error:  Uncaught exception 'Hybrid_Exception' with message 'You cannot access this page directly.' in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php:211
+Stack trace:
+#0 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(117): Hybrid_Endpoint->authInit()
+#1 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(51): Hybrid_Endpoint->processAuthStart()
+#2 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(72): Hybrid_Endpoint->__construct(NULL)
+#3 /home/sitocasg/public_html/catalog/controller/extension/d_social_login/callback.php(12): Hybrid_Endpoint::process()
+#4 [internal function]: ControllerExtensionDSocialLoginCallback->index()
+#5 /home/sitocasg/public_html/system/storage/modification/system/engine/action.php(51): call_user_func_array(Array, Array)
+#6 /home/sitocasg/public_html/catalog/controller/startup/router.php(25): Action->execute(Object(Registry))
+#7 [internal function]: ControllerStartupRouter->index()
+#8 in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php on line 217
+[22-Dec-2022 03:23:18 UTC] PHP Fatal error:  Uncaught exception 'Hybrid_Exception' with message 'You cannot access this page directly.' in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php:211
+Stack trace:
+#0 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(117): Hybrid_Endpoint->authInit()
+#1 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(51): Hybrid_Endpoint->processAuthStart()
+#2 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(72): Hybrid_Endpoint->__construct(NULL)
+#3 /home/sitocasg/public_html/catalog/controller/extension/d_social_login/callback.php(12): Hybrid_Endpoint::process()
+#4 [internal function]: ControllerExtensionDSocialLoginCallback->index()
+#5 /home/sitocasg/public_html/system/storage/modification/system/engine/action.php(51): call_user_func_array(Array, Array)
+#6 /home/sitocasg/public_html/catalog/controller/startup/router.php(25): Action->execute(Object(Registry))
+#7 [internal function]: ControllerStartupRouter->index()
+#8 in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php on line 217
+[24-Dec-2022 08:06:29 Asia/Singapore] PHP Warning:  unlink(/home/sitocasg/public_html/system/storage/cache/cache.currency.1671839769): No such file or directory in /home/sitocasg/public_html/system/library/cache/file.php on line 17
+[30-Jan-2023 09:39:54 Asia/Singapore] PHP Warning:  unlink(/home/sitocasg/public_html/system/storage/cache/cache.country.catalog.1675042639): No such file or directory in /home/sitocasg/public_html/system/library/cache/file.php on line 17
+[16-Feb-2023 19:08:50 Asia/Singapore] PHP Warning:  unlink(/home/sitocasg/public_html/system/storage/cache/cache.currency.1676545535): No such file or directory in /home/sitocasg/public_html/system/library/cache/file.php on line 17
+[03-Mar-2023 17:14:02 Asia/Singapore] PHP Warning:  unlink(/home/sitocasg/public_html/system/storage/cache/cache.language.1677834124): No such file or directory in /home/sitocasg/public_html/system/library/cache/file.php on line 17
+[12-Mar-2023 04:43:58 UTC] PHP Fatal error:  Uncaught exception 'Hybrid_Exception' with message 'You cannot access this page directly.' in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php:211
+Stack trace:
+#0 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(117): Hybrid_Endpoint->authInit()
+#1 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(51): Hybrid_Endpoint->processAuthStart()
+#2 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(72): Hybrid_Endpoint->__construct(NULL)
+#3 /home/sitocasg/public_html/catalog/controller/extension/d_social_login/callback.php(12): Hybrid_Endpoint::process()
+#4 [internal function]: ControllerExtensionDSocialLoginCallback->index()
+#5 /home/sitocasg/public_html/system/storage/modification/system/engine/action.php(51): call_user_func_array(Array, Array)
+#6 /home/sitocasg/public_html/catalog/controller/startup/router.php(25): Action->execute(Object(Registry))
+#7 [internal function]: ControllerStartupRouter->index()
+#8 in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php on line 217
+[12-Mar-2023 05:33:25 UTC] PHP Fatal error:  Uncaught exception 'Hybrid_Exception' with message 'You cannot access this page directly.' in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php:211
+Stack trace:
+#0 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(117): Hybrid_Endpoint->authInit()
+#1 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(51): Hybrid_Endpoint->processAuthStart()
+#2 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(72): Hybrid_Endpoint->__construct(NULL)
+#3 /home/sitocasg/public_html/catalog/controller/extension/d_social_login/callback.php(12): Hybrid_Endpoint::process()
+#4 [internal function]: ControllerExtensionDSocialLoginCallback->index()
+#5 /home/sitocasg/public_html/system/storage/modification/system/engine/action.php(51): call_user_func_array(Array, Array)
+#6 /home/sitocasg/public_html/catalog/controller/startup/router.php(25): Action->execute(Object(Registry))
+#7 [internal function]: ControllerStartupRouter->index()
+#8 in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php on line 217
+[06-Apr-2023 03:41:11 UTC] PHP Fatal error:  Uncaught exception 'Hybrid_Exception' with message 'You cannot access this page directly.' in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php:211
+Stack trace:
+#0 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(117): Hybrid_Endpoint->authInit()
+#1 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(51): Hybrid_Endpoint->processAuthStart()
+#2 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(72): Hybrid_Endpoint->__construct(NULL)
+#3 /home/sitocasg/public_html/catalog/controller/extension/d_social_login/callback.php(12): Hybrid_Endpoint::process()
+#4 [internal function]: ControllerExtensionDSocialLoginCallback->index()
+#5 /home/sitocasg/public_html/system/storage/modification/system/engine/action.php(51): call_user_func_array(Array, Array)
+#6 /home/sitocasg/public_html/catalog/controller/startup/router.php(25): Action->execute(Object(Registry))
+#7 [internal function]: ControllerStartupRouter->index()
+#8 in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php on line 217
+[06-May-2023 06:58:26 UTC] PHP Fatal error:  Uncaught exception 'Hybrid_Exception' with message 'You cannot access this page directly.' in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php:211
+Stack trace:
+#0 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(117): Hybrid_Endpoint->authInit()
+#1 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(51): Hybrid_Endpoint->processAuthStart()
+#2 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(72): Hybrid_Endpoint->__construct(NULL)
+#3 /home/sitocasg/public_html/catalog/controller/extension/d_social_login/callback.php(12): Hybrid_Endpoint::process()
+#4 [internal function]: ControllerExtensionDSocialLoginCallback->index()
+#5 /home/sitocasg/public_html/system/storage/modification/system/engine/action.php(51): call_user_func_array(Array, Array)
+#6 /home/sitocasg/public_html/catalog/controller/startup/router.php(25): Action->execute(Object(Registry))
+#7 [internal function]: ControllerStartupRouter->index()
+#8 in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php on line 217
+[13-May-2023 17:03:51 Asia/Singapore] PHP Warning:  unlink(/home/sitocasg/public_html/system/storage/cache/cache.currency.1683968286): No such file or directory in /home/sitocasg/public_html/system/library/cache/file.php on line 17
+[22-May-2023 06:18:28 UTC] PHP Fatal error:  Uncaught exception 'Hybrid_Exception' with message 'You cannot access this page directly.' in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php:211
+Stack trace:
+#0 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(117): Hybrid_Endpoint->authInit()
+#1 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(51): Hybrid_Endpoint->processAuthStart()
+#2 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(72): Hybrid_Endpoint->__construct(NULL)
+#3 /home/sitocasg/public_html/catalog/controller/extension/d_social_login/callback.php(12): Hybrid_Endpoint::process()
+#4 [internal function]: ControllerExtensionDSocialLoginCallback->index()
+#5 /home/sitocasg/public_html/system/storage/modification/system/engine/action.php(51): call_user_func_array(Array, Array)
+#6 /home/sitocasg/public_html/catalog/controller/startup/router.php(25): Action->execute(Object(Registry))
+#7 [internal function]: ControllerStartupRouter->index()
+#8 in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php on line 217
+[31-May-2023 06:26:38 UTC] PHP Fatal error:  Uncaught exception 'Hybrid_Exception' with message 'You cannot access this page directly.' in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php:211
+Stack trace:
+#0 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(117): Hybrid_Endpoint->authInit()
+#1 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(51): Hybrid_Endpoint->processAuthStart()
+#2 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(72): Hybrid_Endpoint->__construct(NULL)
+#3 /home/sitocasg/public_html/catalog/controller/extension/d_social_login/callback.php(12): Hybrid_Endpoint::process()
+#4 [internal function]: ControllerExtensionDSocialLoginCallback->index()
+#5 /home/sitocasg/public_html/system/storage/modification/system/engine/action.php(51): call_user_func_array(Array, Array)
+#6 /home/sitocasg/public_html/catalog/controller/startup/router.php(25): Action->execute(Object(Registry))
+#7 [internal function]: ControllerStartupRouter->index()
+#8 in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php on line 217
+[31-May-2023 07:02:30 UTC] PHP Fatal error:  Uncaught exception 'Hybrid_Exception' with message 'You cannot access this page directly.' in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php:211
+Stack trace:
+#0 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(117): Hybrid_Endpoint->authInit()
+#1 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(51): Hybrid_Endpoint->processAuthStart()
+#2 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(72): Hybrid_Endpoint->__construct(NULL)
+#3 /home/sitocasg/public_html/catalog/controller/extension/d_social_login/callback.php(12): Hybrid_Endpoint::process()
+#4 [internal function]: ControllerExtensionDSocialLoginCallback->index()
+#5 /home/sitocasg/public_html/system/storage/modification/system/engine/action.php(51): call_user_func_array(Array, Array)
+#6 /home/sitocasg/public_html/catalog/controller/startup/router.php(25): Action->execute(Object(Registry))
+#7 [internal function]: ControllerStartupRouter->index()
+#8 in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php on line 217
+[01-Jun-2023 12:36:50 UTC] PHP Fatal error:  Uncaught exception 'Hybrid_Exception' with message 'You cannot access this page directly.' in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php:211
+Stack trace:
+#0 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(117): Hybrid_Endpoint->authInit()
+#1 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(51): Hybrid_Endpoint->processAuthStart()
+#2 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(72): Hybrid_Endpoint->__construct(NULL)
+#3 /home/sitocasg/public_html/catalog/controller/extension/d_social_login/callback.php(12): Hybrid_Endpoint::process()
+#4 [internal function]: ControllerExtensionDSocialLoginCallback->index()
+#5 /home/sitocasg/public_html/system/storage/modification/system/engine/action.php(51): call_user_func_array(Array, Array)
+#6 /home/sitocasg/public_html/catalog/controller/startup/router.php(25): Action->execute(Object(Registry))
+#7 [internal function]: ControllerStartupRouter->index()
+#8 in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php on line 217
+[01-Jun-2023 13:36:11 UTC] PHP Fatal error:  Uncaught exception 'Hybrid_Exception' with message 'You cannot access this page directly.' in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php:211
+Stack trace:
+#0 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(117): Hybrid_Endpoint->authInit()
+#1 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(51): Hybrid_Endpoint->processAuthStart()
+#2 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(72): Hybrid_Endpoint->__construct(NULL)
+#3 /home/sitocasg/public_html/catalog/controller/extension/d_social_login/callback.php(12): Hybrid_Endpoint::process()
+#4 [internal function]: ControllerExtensionDSocialLoginCallback->index()
+#5 /home/sitocasg/public_html/system/storage/modification/system/engine/action.php(51): call_user_func_array(Array, Array)
+#6 /home/sitocasg/public_html/catalog/controller/startup/router.php(25): Action->execute(Object(Registry))
+#7 [internal function]: ControllerStartupRouter->index()
+#8 in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php on line 217
+[02-Jun-2023 19:04:02 UTC] PHP Fatal error:  Uncaught exception 'Hybrid_Exception' with message 'You cannot access this page directly.' in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php:211
+Stack trace:
+#0 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(117): Hybrid_Endpoint->authInit()
+#1 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(51): Hybrid_Endpoint->processAuthStart()
+#2 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(72): Hybrid_Endpoint->__construct(NULL)
+#3 /home/sitocasg/public_html/catalog/controller/extension/d_social_login/callback.php(12): Hybrid_Endpoint::process()
+#4 [internal function]: ControllerExtensionDSocialLoginCallback->index()
+#5 /home/sitocasg/public_html/system/storage/modification/system/engine/action.php(51): call_user_func_array(Array, Array)
+#6 /home/sitocasg/public_html/catalog/controller/startup/router.php(25): Action->execute(Object(Registry))
+#7 [internal function]: ControllerStartupRouter->index()
+#8 in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php on line 217
+[07-Jun-2023 23:34:21 UTC] PHP Fatal error:  Uncaught exception 'Hybrid_Exception' with message 'You cannot access this page directly.' in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php:211
+Stack trace:
+#0 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(117): Hybrid_Endpoint->authInit()
+#1 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(51): Hybrid_Endpoint->processAuthStart()
+#2 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(72): Hybrid_Endpoint->__construct(NULL)
+#3 /home/sitocasg/public_html/catalog/controller/extension/d_social_login/callback.php(12): Hybrid_Endpoint::process()
+#4 [internal function]: ControllerExtensionDSocialLoginCallback->index()
+#5 /home/sitocasg/public_html/system/storage/modification/system/engine/action.php(51): call_user_func_array(Array, Array)
+#6 /home/sitocasg/public_html/catalog/controller/startup/router.php(25): Action->execute(Object(Registry))
+#7 [internal function]: ControllerStartupRouter->index()
+#8 in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php on line 217
+[24-Jun-2023 10:23:22 UTC] PHP Fatal error:  Uncaught exception 'Hybrid_Exception' with message 'You cannot access this page directly.' in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php:211
+Stack trace:
+#0 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(117): Hybrid_Endpoint->authInit()
+#1 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(51): Hybrid_Endpoint->processAuthStart()
+#2 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(72): Hybrid_Endpoint->__construct(NULL)
+#3 /home/sitocasg/public_html/catalog/controller/extension/d_social_login/callback.php(12): Hybrid_Endpoint::process()
+#4 [internal function]: ControllerExtensionDSocialLoginCallback->index()
+#5 /home/sitocasg/public_html/system/storage/modification/system/engine/action.php(51): call_user_func_array(Array, Array)
+#6 /home/sitocasg/public_html/catalog/controller/startup/router.php(25): Action->execute(Object(Registry))
+#7 [internal function]: ControllerStartupRouter->index()
+#8 in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php on line 217
+[27-Jun-2023 11:03:33 UTC] PHP Fatal error:  Uncaught exception 'Hybrid_Exception' with message 'You cannot access this page directly.' in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php:211
+Stack trace:
+#0 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(117): Hybrid_Endpoint->authInit()
+#1 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(51): Hybrid_Endpoint->processAuthStart()
+#2 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(72): Hybrid_Endpoint->__construct(NULL)
+#3 /home/sitocasg/public_html/catalog/controller/extension/d_social_login/callback.php(12): Hybrid_Endpoint::process()
+#4 [internal function]: ControllerExtensionDSocialLoginCallback->index()
+#5 /home/sitocasg/public_html/system/storage/modification/system/engine/action.php(51): call_user_func_array(Array, Array)
+#6 /home/sitocasg/public_html/catalog/controller/startup/router.php(25): Action->execute(Object(Registry))
+#7 [internal function]: ControllerStartupRouter->index()
+#8 in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php on line 217
+[30-Jun-2023 00:02:32 UTC] PHP Fatal error:  Uncaught exception 'Hybrid_Exception' with message 'You cannot access this page directly.' in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php:211
+Stack trace:
+#0 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(117): Hybrid_Endpoint->authInit()
+#1 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(51): Hybrid_Endpoint->processAuthStart()
+#2 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(72): Hybrid_Endpoint->__construct(NULL)
+#3 /home/sitocasg/public_html/catalog/controller/extension/d_social_login/callback.php(12): Hybrid_Endpoint::process()
+#4 [internal function]: ControllerExtensionDSocialLoginCallback->index()
+#5 /home/sitocasg/public_html/system/storage/modification/system/engine/action.php(51): call_user_func_array(Array, Array)
+#6 /home/sitocasg/public_html/catalog/controller/startup/router.php(25): Action->execute(Object(Registry))
+#7 [internal function]: ControllerStartupRouter->index()
+#8 in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php on line 217
+[02-Jul-2023 08:20:31 UTC] PHP Fatal error:  Uncaught exception 'Hybrid_Exception' with message 'You cannot access this page directly.' in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php:211
+Stack trace:
+#0 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(117): Hybrid_Endpoint->authInit()
+#1 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(51): Hybrid_Endpoint->processAuthStart()
+#2 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(72): Hybrid_Endpoint->__construct(NULL)
+#3 /home/sitocasg/public_html/catalog/controller/extension/d_social_login/callback.php(12): Hybrid_Endpoint::process()
+#4 [internal function]: ControllerExtensionDSocialLoginCallback->index()
+#5 /home/sitocasg/public_html/system/storage/modification/system/engine/action.php(51): call_user_func_array(Array, Array)
+#6 /home/sitocasg/public_html/catalog/controller/startup/router.php(25): Action->execute(Object(Registry))
+#7 [internal function]: ControllerStartupRouter->index()
+#8 in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php on line 217
+[15-Jul-2023 02:29:05 UTC] PHP Fatal error:  Uncaught exception 'Hybrid_Exception' with message 'You cannot access this page directly.' in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php:211
+Stack trace:
+#0 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(117): Hybrid_Endpoint->authInit()
+#1 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(51): Hybrid_Endpoint->processAuthStart()
+#2 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(72): Hybrid_Endpoint->__construct(NULL)
+#3 /home/sitocasg/public_html/catalog/controller/extension/d_social_login/callback.php(12): Hybrid_Endpoint::process()
+#4 [internal function]: ControllerExtensionDSocialLoginCallback->index()
+#5 /home/sitocasg/public_html/system/storage/modification/system/engine/action.php(51): call_user_func_array(Array, Array)
+#6 /home/sitocasg/public_html/catalog/controller/startup/router.php(25): Action->execute(Object(Registry))
+#7 [internal function]: ControllerStartupRouter->index()
+#8 in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php on line 217
+[31-Jul-2023 14:40:08 UTC] PHP Fatal error:  Uncaught exception 'Hybrid_Exception' with message 'You cannot access this page directly.' in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php:211
+Stack trace:
+#0 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(117): Hybrid_Endpoint->authInit()
+#1 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(51): Hybrid_Endpoint->processAuthStart()
+#2 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(72): Hybrid_Endpoint->__construct(NULL)
+#3 /home/sitocasg/public_html/catalog/controller/extension/d_social_login/callback.php(12): Hybrid_Endpoint::process()
+#4 [internal function]: ControllerExtensionDSocialLoginCallback->index()
+#5 /home/sitocasg/public_html/system/storage/modification/system/engine/action.php(51): call_user_func_array(Array, Array)
+#6 /home/sitocasg/public_html/catalog/controller/startup/router.php(25): Action->execute(Object(Registry))
+#7 [internal function]: ControllerStartupRouter->index()
+#8 in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php on line 217
+[31-Jul-2023 14:40:09 UTC] PHP Fatal error:  Uncaught exception 'Hybrid_Exception' with message 'You cannot access this page directly.' in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php:211
+Stack trace:
+#0 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(117): Hybrid_Endpoint->authInit()
+#1 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(51): Hybrid_Endpoint->processAuthStart()
+#2 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(72): Hybrid_Endpoint->__construct(NULL)
+#3 /home/sitocasg/public_html/catalog/controller/extension/d_social_login/callback.php(12): Hybrid_Endpoint::process()
+#4 [internal function]: ControllerExtensionDSocialLoginCallback->index()
+#5 /home/sitocasg/public_html/system/storage/modification/system/engine/action.php(51): call_user_func_array(Array, Array)
+#6 /home/sitocasg/public_html/catalog/controller/startup/router.php(25): Action->execute(Object(Registry))
+#7 [internal function]: ControllerStartupRouter->index()
+#8 in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php on line 217
+[31-Jul-2023 14:40:10 UTC] PHP Fatal error:  Uncaught exception 'Hybrid_Exception' with message 'You cannot access this page directly.' in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php:211
+Stack trace:
+#0 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(117): Hybrid_Endpoint->authInit()
+#1 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(51): Hybrid_Endpoint->processAuthStart()
+#2 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(72): Hybrid_Endpoint->__construct(NULL)
+#3 /home/sitocasg/public_html/catalog/controller/extension/d_social_login/callback.php(12): Hybrid_Endpoint::process()
+#4 [internal function]: ControllerExtensionDSocialLoginCallback->index()
+#5 /home/sitocasg/public_html/system/storage/modification/system/engine/action.php(51): call_user_func_array(Array, Array)
+#6 /home/sitocasg/public_html/catalog/controller/startup/router.php(25): Action->execute(Object(Registry))
+#7 [internal function]: ControllerStartupRouter->index()
+#8 in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php on line 217
+[02-Aug-2023 05:04:14 UTC] PHP Fatal error:  Uncaught exception 'Hybrid_Exception' with message 'You cannot access this page directly.' in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php:211
+Stack trace:
+#0 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(117): Hybrid_Endpoint->authInit()
+#1 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(51): Hybrid_Endpoint->processAuthStart()
+#2 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(72): Hybrid_Endpoint->__construct(NULL)
+#3 /home/sitocasg/public_html/catalog/controller/extension/d_social_login/callback.php(12): Hybrid_Endpoint::process()
+#4 [internal function]: ControllerExtensionDSocialLoginCallback->index()
+#5 /home/sitocasg/public_html/system/storage/modification/system/engine/action.php(51): call_user_func_array(Array, Array)
+#6 /home/sitocasg/public_html/catalog/controller/startup/router.php(25): Action->execute(Object(Registry))
+#7 [internal function]: ControllerStartupRouter->index()
+#8 in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php on line 217
+[06-Aug-2023 16:07:42 UTC] PHP Fatal error:  Uncaught exception 'Hybrid_Exception' with message 'You cannot access this page directly.' in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php:211
+Stack trace:
+#0 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(117): Hybrid_Endpoint->authInit()
+#1 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(51): Hybrid_Endpoint->processAuthStart()
+#2 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(72): Hybrid_Endpoint->__construct(NULL)
+#3 /home/sitocasg/public_html/catalog/controller/extension/d_social_login/callback.php(12): Hybrid_Endpoint::process()
+#4 [internal function]: ControllerExtensionDSocialLoginCallback->index()
+#5 /home/sitocasg/public_html/system/storage/modification/system/engine/action.php(51): call_user_func_array(Array, Array)
+#6 /home/sitocasg/public_html/catalog/controller/startup/router.php(25): Action->execute(Object(Registry))
+#7 [internal function]: ControllerStartupRouter->index()
+#8 in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php on line 217
+[08-Aug-2023 15:51:05 UTC] PHP Fatal error:  Uncaught exception 'Hybrid_Exception' with message 'You cannot access this page directly.' in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php:211
+Stack trace:
+#0 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(117): Hybrid_Endpoint->authInit()
+#1 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(51): Hybrid_Endpoint->processAuthStart()
+#2 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(72): Hybrid_Endpoint->__construct(NULL)
+#3 /home/sitocasg/public_html/catalog/controller/extension/d_social_login/callback.php(12): Hybrid_Endpoint::process()
+#4 [internal function]: ControllerExtensionDSocialLoginCallback->index()
+#5 /home/sitocasg/public_html/system/storage/modification/system/engine/action.php(51): call_user_func_array(Array, Array)
+#6 /home/sitocasg/public_html/catalog/controller/startup/router.php(25): Action->execute(Object(Registry))
+#7 [internal function]: ControllerStartupRouter->index()
+#8 in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php on line 217
+[13-Aug-2023 08:07:06 UTC] PHP Fatal error:  Uncaught exception 'Hybrid_Exception' with message 'You cannot access this page directly.' in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php:211
+Stack trace:
+#0 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(117): Hybrid_Endpoint->authInit()
+#1 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(51): Hybrid_Endpoint->processAuthStart()
+#2 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(72): Hybrid_Endpoint->__construct(NULL)
+#3 /home/sitocasg/public_html/catalog/controller/extension/d_social_login/callback.php(12): Hybrid_Endpoint::process()
+#4 [internal function]: ControllerExtensionDSocialLoginCallback->index()
+#5 /home/sitocasg/public_html/system/storage/modification/system/engine/action.php(51): call_user_func_array(Array, Array)
+#6 /home/sitocasg/public_html/catalog/controller/startup/router.php(25): Action->execute(Object(Registry))
+#7 [internal function]: ControllerStartupRouter->index()
+#8 in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php on line 217
+[13-Aug-2023 08:07:08 UTC] PHP Fatal error:  Uncaught exception 'Hybrid_Exception' with message 'You cannot access this page directly.' in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php:211
+Stack trace:
+#0 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(117): Hybrid_Endpoint->authInit()
+#1 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(51): Hybrid_Endpoint->processAuthStart()
+#2 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(72): Hybrid_Endpoint->__construct(NULL)
+#3 /home/sitocasg/public_html/catalog/controller/extension/d_social_login/callback.php(12): Hybrid_Endpoint::process()
+#4 [internal function]: ControllerExtensionDSocialLoginCallback->index()
+#5 /home/sitocasg/public_html/system/storage/modification/system/engine/action.php(51): call_user_func_array(Array, Array)
+#6 /home/sitocasg/public_html/catalog/controller/startup/router.php(25): Action->execute(Object(Registry))
+#7 [internal function]: ControllerStartupRouter->index()
+#8 in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php on line 217
+[13-Aug-2023 08:07:09 UTC] PHP Fatal error:  Uncaught exception 'Hybrid_Exception' with message 'You cannot access this page directly.' in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php:211
+Stack trace:
+#0 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(117): Hybrid_Endpoint->authInit()
+#1 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(51): Hybrid_Endpoint->processAuthStart()
+#2 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(72): Hybrid_Endpoint->__construct(NULL)
+#3 /home/sitocasg/public_html/catalog/controller/extension/d_social_login/callback.php(12): Hybrid_Endpoint::process()
+#4 [internal function]: ControllerExtensionDSocialLoginCallback->index()
+#5 /home/sitocasg/public_html/system/storage/modification/system/engine/action.php(51): call_user_func_array(Array, Array)
+#6 /home/sitocasg/public_html/catalog/controller/startup/router.php(25): Action->execute(Object(Registry))
+#7 [internal function]: ControllerStartupRouter->index()
+#8 in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php on line 217
+[14-Aug-2023 05:21:07 UTC] PHP Fatal error:  Uncaught exception 'Hybrid_Exception' with message 'You cannot access this page directly.' in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php:211
+Stack trace:
+#0 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(117): Hybrid_Endpoint->authInit()
+#1 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(51): Hybrid_Endpoint->processAuthStart()
+#2 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(72): Hybrid_Endpoint->__construct(NULL)
+#3 /home/sitocasg/public_html/catalog/controller/extension/d_social_login/callback.php(12): Hybrid_Endpoint::process()
+#4 [internal function]: ControllerExtensionDSocialLoginCallback->index()
+#5 /home/sitocasg/public_html/system/storage/modification/system/engine/action.php(51): call_user_func_array(Array, Array)
+#6 /home/sitocasg/public_html/catalog/controller/startup/router.php(25): Action->execute(Object(Registry))
+#7 [internal function]: ControllerStartupRouter->index()
+#8 in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php on line 217
+[18-Aug-2023 11:30:24 UTC] PHP Fatal error:  Uncaught exception 'Hybrid_Exception' with message 'You cannot access this page directly.' in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php:211
+Stack trace:
+#0 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(117): Hybrid_Endpoint->authInit()
+#1 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(51): Hybrid_Endpoint->processAuthStart()
+#2 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(72): Hybrid_Endpoint->__construct(NULL)
+#3 /home/sitocasg/public_html/catalog/controller/extension/d_social_login/callback.php(12): Hybrid_Endpoint::process()
+#4 [internal function]: ControllerExtensionDSocialLoginCallback->index()
+#5 /home/sitocasg/public_html/system/storage/modification/system/engine/action.php(51): call_user_func_array(Array, Array)
+#6 /home/sitocasg/public_html/catalog/controller/startup/router.php(25): Action->execute(Object(Registry))
+#7 [internal function]: ControllerStartupRouter->index()
+#8 in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php on line 217
+[22-Aug-2023 19:38:35 UTC] PHP Fatal error:  Uncaught exception 'Hybrid_Exception' with message 'You cannot access this page directly.' in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php:211
+Stack trace:
+#0 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(117): Hybrid_Endpoint->authInit()
+#1 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(51): Hybrid_Endpoint->processAuthStart()
+#2 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(72): Hybrid_Endpoint->__construct(NULL)
+#3 /home/sitocasg/public_html/catalog/controller/extension/d_social_login/callback.php(12): Hybrid_Endpoint::process()
+#4 [internal function]: ControllerExtensionDSocialLoginCallback->index()
+#5 /home/sitocasg/public_html/system/storage/modification/system/engine/action.php(51): call_user_func_array(Array, Array)
+#6 /home/sitocasg/public_html/catalog/controller/startup/router.php(25): Action->execute(Object(Registry))
+#7 [internal function]: ControllerStartupRouter->index()
+#8 in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php on line 217
+[22-Aug-2023 20:11:00 UTC] PHP Fatal error:  Uncaught exception 'Hybrid_Exception' with message 'You cannot access this page directly.' in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php:211
+Stack trace:
+#0 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(117): Hybrid_Endpoint->authInit()
+#1 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(51): Hybrid_Endpoint->processAuthStart()
+#2 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(72): Hybrid_Endpoint->__construct(NULL)
+#3 /home/sitocasg/public_html/catalog/controller/extension/d_social_login/callback.php(12): Hybrid_Endpoint::process()
+#4 [internal function]: ControllerExtensionDSocialLoginCallback->index()
+#5 /home/sitocasg/public_html/system/storage/modification/system/engine/action.php(51): call_user_func_array(Array, Array)
+#6 /home/sitocasg/public_html/catalog/controller/startup/router.php(25): Action->execute(Object(Registry))
+#7 [internal function]: ControllerStartupRouter->index()
+#8 in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php on line 217
+[24-Aug-2023 13:22:01 UTC] PHP Fatal error:  Uncaught exception 'Hybrid_Exception' with message 'You cannot access this page directly.' in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php:211
+Stack trace:
+#0 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(117): Hybrid_Endpoint->authInit()
+#1 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(51): Hybrid_Endpoint->processAuthStart()
+#2 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(72): Hybrid_Endpoint->__construct(NULL)
+#3 /home/sitocasg/public_html/catalog/controller/extension/d_social_login/callback.php(12): Hybrid_Endpoint::process()
+#4 [internal function]: ControllerExtensionDSocialLoginCallback->index()
+#5 /home/sitocasg/public_html/system/storage/modification/system/engine/action.php(51): call_user_func_array(Array, Array)
+#6 /home/sitocasg/public_html/catalog/controller/startup/router.php(25): Action->execute(Object(Registry))
+#7 [internal function]: ControllerStartupRouter->index()
+#8 in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php on line 217
+[25-Aug-2023 06:38:03 UTC] PHP Fatal error:  Uncaught exception 'Hybrid_Exception' with message 'You cannot access this page directly.' in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php:211
+Stack trace:
+#0 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(117): Hybrid_Endpoint->authInit()
+#1 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(51): Hybrid_Endpoint->processAuthStart()
+#2 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(72): Hybrid_Endpoint->__construct(NULL)
+#3 /home/sitocasg/public_html/catalog/controller/extension/d_social_login/callback.php(12): Hybrid_Endpoint::process()
+#4 [internal function]: ControllerExtensionDSocialLoginCallback->index()
+#5 /home/sitocasg/public_html/system/storage/modification/system/engine/action.php(51): call_user_func_array(Array, Array)
+#6 /home/sitocasg/public_html/catalog/controller/startup/router.php(25): Action->execute(Object(Registry))
+#7 [internal function]: ControllerStartupRouter->index()
+#8 in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php on line 217
+[06-Sep-2023 03:51:08 UTC] PHP Fatal error:  Uncaught exception 'Hybrid_Exception' with message 'You cannot access this page directly.' in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php:211
+Stack trace:
+#0 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(117): Hybrid_Endpoint->authInit()
+#1 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(51): Hybrid_Endpoint->processAuthStart()
+#2 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(72): Hybrid_Endpoint->__construct(NULL)
+#3 /home/sitocasg/public_html/catalog/controller/extension/d_social_login/callback.php(12): Hybrid_Endpoint::process()
+#4 [internal function]: ControllerExtensionDSocialLoginCallback->index()
+#5 /home/sitocasg/public_html/system/storage/modification/system/engine/action.php(51): call_user_func_array(Array, Array)
+#6 /home/sitocasg/public_html/catalog/controller/startup/router.php(25): Action->execute(Object(Registry))
+#7 [internal function]: ControllerStartupRouter->index()
+#8 in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php on line 217
+[11-Sep-2023 12:56:41 UTC] PHP Fatal error:  Uncaught exception 'Hybrid_Exception' with message 'You cannot access this page directly.' in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php:211
+Stack trace:
+#0 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(117): Hybrid_Endpoint->authInit()
+#1 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(51): Hybrid_Endpoint->processAuthStart()
+#2 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(72): Hybrid_Endpoint->__construct(NULL)
+#3 /home/sitocasg/public_html/catalog/controller/extension/d_social_login/callback.php(12): Hybrid_Endpoint::process()
+#4 [internal function]: ControllerExtensionDSocialLoginCallback->index()
+#5 /home/sitocasg/public_html/system/storage/modification/system/engine/action.php(51): call_user_func_array(Array, Array)
+#6 /home/sitocasg/public_html/catalog/controller/startup/router.php(25): Action->execute(Object(Registry))
+#7 [internal function]: ControllerStartupRouter->index()
+#8 in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php on line 217
+[12-Sep-2023 02:58:10 UTC] PHP Fatal error:  Uncaught exception 'Hybrid_Exception' with message 'You cannot access this page directly.' in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php:211
+Stack trace:
+#0 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(117): Hybrid_Endpoint->authInit()
+#1 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(51): Hybrid_Endpoint->processAuthStart()
+#2 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(72): Hybrid_Endpoint->__construct(NULL)
+#3 /home/sitocasg/public_html/catalog/controller/extension/d_social_login/callback.php(12): Hybrid_Endpoint::process()
+#4 [internal function]: ControllerExtensionDSocialLoginCallback->index()
+#5 /home/sitocasg/public_html/system/storage/modification/system/engine/action.php(51): call_user_func_array(Array, Array)
+#6 /home/sitocasg/public_html/catalog/controller/startup/router.php(25): Action->execute(Object(Registry))
+#7 [internal function]: ControllerStartupRouter->index()
+#8 in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php on line 217
+[26-Sep-2023 06:15:48 UTC] PHP Fatal error:  Uncaught exception 'Hybrid_Exception' with message 'You cannot access this page directly.' in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php:211
+Stack trace:
+#0 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(117): Hybrid_Endpoint->authInit()
+#1 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(51): Hybrid_Endpoint->processAuthStart()
+#2 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(72): Hybrid_Endpoint->__construct(NULL)
+#3 /home/sitocasg/public_html/catalog/controller/extension/d_social_login/callback.php(12): Hybrid_Endpoint::process()
+#4 [internal function]: ControllerExtensionDSocialLoginCallback->index()
+#5 /home/sitocasg/public_html/system/storage/modification/system/engine/action.php(51): call_user_func_array(Array, Array)
+#6 /home/sitocasg/public_html/catalog/controller/startup/router.php(25): Action->execute(Object(Registry))
+#7 [internal function]: ControllerStartupRouter->index()
+#8 in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php on line 217
+[02-Oct-2023 12:39:09 UTC] PHP Fatal error:  Uncaught exception 'Hybrid_Exception' with message 'You cannot access this page directly.' in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php:211
+Stack trace:
+#0 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(117): Hybrid_Endpoint->authInit()
+#1 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(51): Hybrid_Endpoint->processAuthStart()
+#2 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(72): Hybrid_Endpoint->__construct(NULL)
+#3 /home/sitocasg/public_html/catalog/controller/extension/d_social_login/callback.php(12): Hybrid_Endpoint::process()
+#4 [internal function]: ControllerExtensionDSocialLoginCallback->index()
+#5 /home/sitocasg/public_html/system/storage/modification/system/engine/action.php(51): call_user_func_array(Array, Array)
+#6 /home/sitocasg/public_html/catalog/controller/startup/router.php(25): Action->execute(Object(Registry))
+#7 [internal function]: ControllerStartupRouter->index()
+#8 in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php on line 217
+[03-Oct-2023 03:59:47 UTC] PHP Fatal error:  Uncaught exception 'Hybrid_Exception' with message 'You cannot access this page directly.' in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php:211
+Stack trace:
+#0 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(117): Hybrid_Endpoint->authInit()
+#1 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(51): Hybrid_Endpoint->processAuthStart()
+#2 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(72): Hybrid_Endpoint->__construct(NULL)
+#3 /home/sitocasg/public_html/catalog/controller/extension/d_social_login/callback.php(12): Hybrid_Endpoint::process()
+#4 [internal function]: ControllerExtensionDSocialLoginCallback->index()
+#5 /home/sitocasg/public_html/system/storage/modification/system/engine/action.php(51): call_user_func_array(Array, Array)
+#6 /home/sitocasg/public_html/catalog/controller/startup/router.php(25): Action->execute(Object(Registry))
+#7 [internal function]: ControllerStartupRouter->index()
+#8 in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php on line 217
+[03-Oct-2023 04:02:09 UTC] PHP Fatal error:  Uncaught exception 'Hybrid_Exception' with message 'You cannot access this page directly.' in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php:211
+Stack trace:
+#0 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(117): Hybrid_Endpoint->authInit()
+#1 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(51): Hybrid_Endpoint->processAuthStart()
+#2 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(72): Hybrid_Endpoint->__construct(NULL)
+#3 /home/sitocasg/public_html/catalog/controller/extension/d_social_login/callback.php(12): Hybrid_Endpoint::process()
+#4 [internal function]: ControllerExtensionDSocialLoginCallback->index()
+#5 /home/sitocasg/public_html/system/storage/modification/system/engine/action.php(51): call_user_func_array(Array, Array)
+#6 /home/sitocasg/public_html/catalog/controller/startup/router.php(25): Action->execute(Object(Registry))
+#7 [internal function]: ControllerStartupRouter->index()
+#8 in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php on line 217
+[06-Oct-2023 01:45:47 UTC] PHP Fatal error:  Uncaught exception 'Hybrid_Exception' with message 'You cannot access this page directly.' in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php:211
+Stack trace:
+#0 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(117): Hybrid_Endpoint->authInit()
+#1 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(51): Hybrid_Endpoint->processAuthStart()
+#2 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(72): Hybrid_Endpoint->__construct(NULL)
+#3 /home/sitocasg/public_html/catalog/controller/extension/d_social_login/callback.php(12): Hybrid_Endpoint::process()
+#4 [internal function]: ControllerExtensionDSocialLoginCallback->index()
+#5 /home/sitocasg/public_html/system/storage/modification/system/engine/action.php(51): call_user_func_array(Array, Array)
+#6 /home/sitocasg/public_html/catalog/controller/startup/router.php(25): Action->execute(Object(Registry))
+#7 [internal function]: ControllerStartupRouter->index()
+#8 in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php on line 217
+[07-Oct-2023 23:33:27 Asia/Singapore] PHP Warning:  mysqli::mysqli(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/sitocasg/public_html/system/library/db/mysqli.php on line 7
+[07-Oct-2023 23:33:27 Asia/Singapore] PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /home/sitocasg/public_html/system/library/db/mysqli.php on line 10
+[07-Oct-2023 23:33:27 Asia/Singapore] PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /home/sitocasg/public_html/system/library/db/mysqli.php on line 10
+[07-Oct-2023 23:33:27 Asia/Singapore] PHP Fatal error:  Uncaught exception 'Exception' with message 'Error: <br />Error No: ' in /home/sitocasg/public_html/system/library/db/mysqli.php:10
+Stack trace:
+#0 /home/sitocasg/public_html/system/library/db.php(9): DB\MySQLi->__construct('localhost', 'sitocasg_user', '~U9;3|3teh', 'sitocasg_sitoca', '3306')
+#1 /home/sitocasg/public_html/system/framework.php(36): DB->__construct('mysqli', 'localhost', 'sitocasg_user', '~U9;3|3teh', 'sitocasg_sitoca', '3306')
+#2 /home/sitocasg/public_html/system/startup.php(132): require_once('/home/sitocasg/...')
+#3 /home/sitocasg/public_html/index.php(19): start('catalog')
+#4 {main}
+  thrown in /home/sitocasg/public_html/system/library/db/mysqli.php on line 10
+[13-Oct-2023 00:14:50 UTC] PHP Fatal error:  Uncaught exception 'Hybrid_Exception' with message 'You cannot access this page directly.' in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php:211
+Stack trace:
+#0 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(117): Hybrid_Endpoint->authInit()
+#1 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(51): Hybrid_Endpoint->processAuthStart()
+#2 /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php(72): Hybrid_Endpoint->__construct(NULL)
+#3 /home/sitocasg/public_html/catalog/controller/extension/d_social_login/callback.php(12): Hybrid_Endpoint::process()
+#4 [internal function]: ControllerExtensionDSocialLoginCallback->index()
+#5 /home/sitocasg/public_html/system/storage/modification/system/engine/action.php(51): call_user_func_array(Array, Array)
+#6 /home/sitocasg/public_html/catalog/controller/startup/router.php(25): Action->execute(Object(Registry))
+#7 [internal function]: ControllerStartupRouter->index()
+#8 in /home/sitocasg/public_html/system/library/d_social_login/hybrid/endpoint.php on line 217

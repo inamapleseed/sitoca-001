@@ -1,0 +1,35 @@
+<?php echo $header; ?>
+<div id="bg" style="background-image: url(image/catalog/slicing/computer_furniture/Rectangle-78copy3.png); background-repeat: no-repeat;">
+
+<div class="container auto_gen_cont">
+    
+  <div class="row"><?php echo $column_left; ?>
+    <?php if ($column_left && $column_right) { ?>
+    <?php $class = 'col-sm-6'; ?>
+    <?php } elseif ($column_left || $column_right) { ?>
+    <?php $class = 'col-sm-9'; ?>
+    <?php } else { ?>
+    <?php $class = 'col-sm-12'; ?>
+    <?php } ?>
+    <div id="content" class="<?php echo $class; ?>"><?php echo $content_top; ?>
+      <h2><?php echo $heading_title; ?></h2>
+      <div class='checkout-success'>
+        <div class="line-1">
+            <?= $text_order_numrber_is; ?>
+        </div>
+        <div class="line-2">
+            <?= $text_you_will_receive_an_email_confirmation_shortly_at; ?>
+        </div>
+        <div class="line-3">
+            <a href="<?= $print_receipt_url; ?>" target="_blank" ><?= $print_receipt; ?></a>
+        </div>
+        <div class="line-4">
+            <a id="btn_common" href="<?php echo $continue; ?>" class="btn btn-primary margin-auto"><?php echo $button_to_home; ?></a>
+        </div>
+      </div>
+    
+      <?php //echo $content_bottom; ?></div>
+    <?php echo $column_right; ?></div>
+</div>
+</div>
+<?php echo $footer; ?>

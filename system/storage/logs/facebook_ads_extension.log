@@ -1,0 +1,544 @@
+2018-06-03 12:01:45 - Get Sample product feed
+2018-06-03 12:01:45 - Complete - Get Sample product feed
+2018-06-03 12:02:50 - Updating FAE settings - facebook_catalog_id
+2018-06-03 12:02:50 - Complete - Updating FAE settings
+2018-06-03 12:02:50 - Updating FAE settings - facebook_pixel_id,facebook_pixel_use_pii
+2018-06-03 12:02:50 - Complete - Updating FAE settings
+2018-06-03 12:02:50 - Updating FAE settings - facebook_dia_setting_id
+2018-06-03 12:02:50 - Complete - Updating FAE settings
+2018-06-03 12:02:50 - Clear all Facebook products
+2018-06-03 12:02:50 - Complete - Clear all Facebook products
+2018-06-03 12:02:51 - Updating FAE settings - facebook_page_id,facebook_page_token
+2018-06-03 12:02:51 - Complete - Updating FAE settings
+2018-06-03 12:02:51 - Sync all products using feed
+2018-06-03 12:02:51 - Generating product feed file
+2018-06-03 12:02:51 - Sync all products using feed, feed file generated
+2018-06-03 12:02:51 - Sync all products using feed, facebook feed created
+2018-06-03 12:02:52 - Sync all products using feed, facebook upload created
+2018-06-03 12:02:53 - Complete - Sync all products using feed
+2018-06-03 12:04:24 - Get Sample product feed
+2018-06-03 12:04:24 - Complete - Get Sample product feed
+2018-06-03 12:04:35 - Get Sample product feed
+2018-06-03 12:04:35 - Complete - Get Sample product feed
+2018-06-03 12:10:51 - Get Sample product feed
+2018-06-03 12:10:51 - Complete - Get Sample product feed
+2018-06-03 12:11:16 - Get Sample product feed
+2018-06-03 12:11:16 - Complete - Get Sample product feed
+2018-06-03 12:36:37 - Get Sample product feed
+2018-06-03 12:36:37 - Complete - Get Sample product feed
+2018-06-03 12:46:09 - Get Sample product feed
+2018-06-03 12:46:09 - Complete - Get Sample product feed
+2018-06-03 12:46:21 - Get Sample product feed
+2018-06-03 12:46:21 - Complete - Get Sample product feed
+2018-06-03 12:48:32 - Get Sample product feed
+2018-06-03 12:48:32 - Complete - Get Sample product feed
+2018-06-03 12:50:09 - Get Sample product feed
+2018-06-03 12:50:09 - Complete - Get Sample product feed
+2018-06-03 12:51:51 - Get Sample product feed
+2018-06-03 12:51:51 - Complete - Get Sample product feed
+2018-06-03 12:53:31 - Get Sample product feed
+2018-06-03 12:53:31 - Complete - Get Sample product feed
+2018-06-04 10:04:08 - Sync for product 1
+2018-06-04 10:04:25 - Sync for product 2
+2018-06-04 10:04:33 - Sync for product 4
+2018-06-04 10:04:42 - Sync for product 3
+2018-06-06 3:00:30 - Sync for product 1
+2018-06-06 3:00:36 - Sync for product 2
+2018-06-06 3:00:41 - Sync for product 4
+2018-06-06 3:00:46 - Sync for product 3
+2018-06-07 5:39:23 - Sync for product 1
+2018-06-07 5:39:42 - Sync for product 2
+2018-06-07 5:39:54 - Sync for product 4
+2018-06-07 5:40:05 - Sync for product 3
+2018-06-07 5:40:16 - Sync for product 4
+2018-06-07 7:35:44 - Sync for product 1
+2018-06-07 7:38:16 - Sync for product 2
+2018-06-07 7:38:21 - Sync for product 4
+2018-06-07 7:38:26 - Sync for product 3
+2018-06-07 7:38:43 - Sync for product 1
+2018-06-07 7:50:02 - Sync for product 1
+2018-06-07 11:36:29 - Get Sample product feed
+2018-06-07 11:36:29 - Complete - Get Sample product feed
+2018-06-07 11:36:47 - Get Sample product feed
+2018-06-07 11:36:47 - Complete - Get Sample product feed
+2018-06-08 8:05:27 - Get Sample product feed
+2018-06-08 8:05:27 - Complete - Get Sample product feed
+2018-06-08 8:28:58 - Get Sample product feed
+2018-06-08 8:28:58 - Complete - Get Sample product feed
+2018-06-09 7:44:47 - Sync for product 1
+2018-06-09 7:44:57 - Sync for product 1
+2018-06-09 7:45:27 - Sync for product 1
+2018-06-09 7:45:33 - Sync for product 1
+2018-06-09 7:47:45 - Update products for availability change - 1
+2018-06-09 9:00:21 - Update products for availability change - 1
+2018-06-11 3:13:34 - Update products for availability change - 1
+2018-06-11 8:59:55 - Update products for availability change - 1
+2018-06-11 9:12:30 - Update products for availability change - 1
+2018-06-11 9:14:10 - Update products for availability change - 1
+2018-06-11 9:14:43 - Update products for availability change - 1
+2018-06-11 9:15:19 - Update products for availability change - 1
+2018-06-11 10:30:40 - Update products for availability change - 1
+2018-06-11 10:34:36 - Update products for availability change - 1
+2018-06-11 10:49:40 - Get Sample product feed
+2018-06-11 10:49:40 - Complete - Get Sample product feed
+2018-06-16 8:51:18 - Sync for product 1
+2018-07-03 8:48:06 - Sync for product 1
+2018-07-03 8:48:17 - Sync for product 2
+2018-07-04 5:49:27 - Sync for product 1
+2018-07-04 11:50:36 - Update products for availability change - 1
+2018-07-04 11:52:41 - Update products for availability change - 1
+2018-07-04 11:59:36 - Update products for availability change - 1
+2018-07-04 12:24:54 - Update products for availability change - 1
+2018-07-06 9:35:33 - Sync for product 1
+2018-07-06 9:43:10 - Sync for product 1
+2018-07-06 9:44:55 - Sync for product 1
+2018-07-06 9:56:27 - Sync for product 1
+2018-07-06 9:57:18 - Sync for product 1
+2018-07-06 10:33:02 - Sync for product 1
+2018-07-06 10:34:10 - Sync for product 1
+2018-07-06 16:46:55 - Update products for availability change - 1
+2018-07-06 10:47:05 - Sync for product 1
+2018-07-10 5:15:49 - Sync for product 1
+2018-07-22 14:01:36 - Sync for product 1
+2018-07-22 14:49:38 - Sync for product 2
+2018-07-25 8:20:07 - Sync for product 1
+2018-07-25 8:20:16 - Sync for product 2
+2018-08-01 12:48:01 - Sync for product 1
+2018-08-01 14:18:36 - Sync for product 1
+2018-08-01 14:32:27 - Sync for product 1
+2018-08-01 16:10:01 - Sync for product 10
+2018-08-01 16:10:08 - Sync for product 11
+2018-08-01 16:10:28 - Sync for product 12
+2018-08-01 16:10:35 - Sync for product 13
+2018-08-01 16:10:42 - Sync for product 14
+2018-08-01 16:10:46 - Sync for product 15
+2018-08-01 16:10:50 - Sync for product 16
+2018-08-01 16:10:54 - Sync for product 2
+2018-08-01 16:10:58 - Sync for product 3
+2018-08-01 16:11:02 - Sync for product 4
+2018-08-01 16:11:06 - Sync for product 5
+2018-08-01 16:11:13 - Sync for product 6
+2018-08-01 16:11:18 - Sync for product 7
+2018-08-01 16:11:23 - Sync for product 8
+2018-08-01 16:11:27 - Sync for product 9
+2018-08-01 16:38:24 - Sync for product 16
+2018-08-07 23:44:05 - Update products for availability change - 1
+2018-08-07 17:44:41 - Sync for product 1
+2018-08-13 4:43:44 - Sync for product 1
+2018-08-13 5:42:40 - Sync for product 10
+2018-08-13 5:42:43 - Sync for product 10
+2018-08-13 7:07:27 - Sync for product 10
+2018-08-13 9:37:46 - Sync for product 10
+2018-08-13 9:37:47 - Sync for product 10
+2018-08-13 12:35:15 - Sync for product 10
+2018-08-13 18:45:01 - Sync for product 1
+2018-08-13 18:46:23 - Sync for product 1
+2018-08-13 18:46:39 - Sync for product 1
+2018-08-13 18:46:56 - Sync for product 1
+2018-08-13 18:46:59 - Sync for product 1
+2018-08-15 4:11:44 - Sync for product 1
+2018-08-15 4:16:56 - Sync for product 1
+2018-08-15 4:45:24 - Sync for product 1
+2018-08-15 4:46:10 - Sync for product 1
+2018-08-15 4:49:34 - Sync for product 1
+2018-08-15 4:51:14 - Sync for product 1
+2018-08-15 4:53:53 - Sync for product 1
+2018-08-15 4:54:05 - Sync for product 1
+2018-08-18 15:51:33 - Update products for availability change - 1
+2018-08-18 22:34:13 - Update products for availability change - 1,13
+2018-08-29 21:29:17 - Update products for availability change - 1,13
+2018-08-29 21:29:51 - Update products for availability change - 1
+2018-08-29 21:33:37 - Update products for availability change - 1
+2018-08-29 22:32:11 - Update products for availability change - 1
+2018-08-30 15:26:59 - Sync for product 10
+2018-09-02 15:23:27 - Sync for product 1
+2018-09-03 17:27:29 - Sync for product 1
+2018-09-03 17:39:53 - Sync for product 1
+2018-09-03 17:48:18 - Sync for product 1
+2018-09-08 8:51:11 - Sync for product 16
+2018-09-09 11:24:40 - Update products for availability change - 1,10
+2018-09-09 5:54:59 - Sync for product 1
+2018-09-09 7:45:42 - Sync for product 1
+2018-09-09 7:56:35 - Sync for product 1
+2018-09-09 7:56:36 - Sync for product 1
+2018-09-09 12:33:44 - Sync for product 1
+2018-09-14 3:55:32 - Sync for product 1
+2018-09-15 15:39:36 - Sync for product 10
+2018-09-15 15:39:45 - Sync for product 10
+2018-09-15 17:03:31 - Sync for product 1
+2018-09-15 17:03:36 - Sync for product 1
+2018-09-16 14:42:45 - Update products for availability change - 1
+2018-09-18 23:33:34 - Update products for availability change - 1,12,10
+2018-09-19 14:32:04 - Update products for availability change - 2,3,4,7,8,1
+2018-09-19 14:57:07 - Sync for product 1
+2018-09-19 21:40:19 - Update products for availability change - 1,10
+2018-09-19 15:55:39 - Sync for product 10
+2018-09-19 22:01:09 - Update products for availability change - 1,10
+2018-09-21 3:59:15 - Sync for product 5
+2018-09-21 9:51:53 - Sync for product 1
+2018-09-21 9:51:59 - Sync for product 2
+2018-09-21 9:52:03 - Sync for product 3
+2018-09-21 9:52:11 - Sync for product 4
+2018-09-21 9:52:16 - Sync for product 6
+2018-09-21 9:52:20 - Sync for product 7
+2018-09-21 9:52:24 - Sync for product 8
+2018-09-21 9:52:28 - Sync for product 5
+2018-09-21 19:02:14 - Update products for availability change - 1,2
+2018-09-21 19:23:33 - Update products for availability change - 1
+2018-09-22 18:40:22 - Sync for product 11
+2018-09-23 15:03:04 - Update products for availability change - 11
+2018-09-23 15:04:39 - Update products for availability change - 11
+2018-09-23 15:06:52 - Update products for availability change - 11
+2018-09-23 15:14:28 - Update products for availability change - 11
+2018-09-23 15:15:35 - Update products for availability change - 11
+2018-09-23 15:15:44 - Update products for availability change - 11
+2018-09-23 15:16:32 - Update products for availability change - 11
+2018-09-23 15:23:53 - Update products for availability change - 11
+2018-09-23 15:29:33 - Update products for availability change - 11
+2018-09-23 15:30:14 - Update products for availability change - 11
+2018-09-23 15:30:31 - Update products for availability change - 11
+2018-09-23 15:36:53 - Update products for availability change - 11
+2018-09-23 15:41:59 - Update products for availability change - 11
+2018-09-23 15:42:38 - Update products for availability change - 11
+2018-09-23 15:53:19 - Update products for availability change - 11
+2018-09-23 15:54:19 - Update products for availability change - 11
+2018-09-23 15:59:55 - Update products for availability change - 11
+2018-09-23 17:42:52 - Update products for availability change - 11
+2018-09-23 17:44:50 - Update products for availability change - 11
+2018-09-24 9:36:58 - Sync for product 4
+2018-09-24 11:20:26 - Update products for availability change - 4
+2018-09-24 11:26:20 - Update products for availability change - 3
+2018-09-24 14:47:31 - Update products for availability change - 4
+2018-09-24 14:51:39 - Update products for availability change - 4
+2018-09-24 16:01:20 - Sync for product 1
+2018-09-24 16:34:24 - Update products for availability change - 4
+2018-09-24 16:35:15 - Update products for availability change - 4
+2018-09-24 16:37:39 - Update products for availability change - 4
+2018-09-24 16:46:28 - Update products for availability change - 3
+2018-09-24 16:47:32 - Update products for availability change - 3
+2018-09-24 18:14:41 - Update products for availability change - 4
+2018-09-24 23:18:05 - Update products for availability change - 11
+2018-09-25 11:31:49 - Update products for availability change - 4
+2018-09-25 11:43:42 - Update products for availability change - 4
+2018-09-26 9:48:22 - Update products for availability change - 4
+2018-09-26 10:00:20 - Update products for availability change - 4
+2018-09-26 10:05:51 - Update products for availability change - 4
+2018-09-26 10:13:03 - Update products for availability change - 4
+2018-09-26 10:16:15 - Update products for availability change - 4
+2018-09-26 10:17:26 - Update products for availability change - 4
+2018-09-26 10:18:18 - Update products for availability change - 4
+2018-09-26 10:23:28 - Update products for availability change - 4
+2018-09-26 23:10:44 - Update products for availability change - 11
+2018-09-26 23:51:17 - Sync for product 11
+2018-09-26 23:51:35 - Sync for product 11
+2018-09-26 23:54:54 - Sync for product 11
+2018-09-26 23:56:33 - Sync for product 11
+2018-09-28 5:21:41 - Sync for product 2
+2018-10-02 6:02:06 - Sync for product 1
+2018-10-19 5:30:26 - Sync for product 11
+2018-10-19 5:48:36 - Sync for product 1
+2018-10-19 9:00:33 - Sync for product 1
+2018-10-19 15:05:51 - Update products for availability change - 3,1,2
+2018-10-19 15:22:02 - Update products for availability change - 2,4
+2018-10-19 15:35:43 - Update products for availability change - 2,4
+2018-10-23 10:12:10 - Update products for availability change - 3,1,2
+2018-10-24 17:01:53 - Sync for product 10
+2018-10-24 23:45:20 - Update products for availability change - 1,10
+2018-10-24 23:46:57 - Update products for availability change - 1,10
+2018-11-02 18:25:04 - Sync for product 1
+2018-11-03 3:27:41 - Get Sample product feed
+2018-11-03 3:27:41 - Complete - Get Sample product feed
+2018-11-03 5:22:06 - Sync for product 1
+2018-11-03 8:02:24 - Get Sample product feed
+2018-11-03 8:02:24 - Complete - Get Sample product feed
+2018-11-03 8:28:42 - Get Sample product feed
+2018-11-03 8:28:42 - Complete - Get Sample product feed
+2018-11-18 13:55:37 - Sync for product 1
+2018-11-18 13:56:17 - Sync for product 1
+2018-11-18 13:57:41 - Sync for product 1
+2018-11-21 0:00:24 - Update products for availability change - 1
+2018-12-22 10:01:56 - Sync for product 1
+2018-12-25 8:12:18 - Get Sample product feed
+2018-12-25 8:12:18 - Complete - Get Sample product feed
+2019-01-01 16:42:02 - Get Sample product feed
+2019-01-01 16:42:02 - Complete - Get Sample product feed
+2019-01-05 4:27:12 - Sync for product 2
+2019-01-05 4:27:30 - Sync for product 3
+2019-01-05 5:03:42 - Sync for product 2
+2019-01-05 17:03:49 - Update products for availability change - 2
+2019-01-05 17:06:37 - Update products for availability change - 1
+2019-01-05 17:11:31 - Update products for availability change - 1
+2019-03-02 14:17:36 - Sync for product 1
+2019-03-02 15:07:07 - Sync for product 1
+2019-03-06 20:25:00 - Sync for product 2
+2019-03-06 20:35:14 - Sync for product 1
+2019-03-06 20:49:54 - Sync for product 1
+2019-03-06 20:54:27 - Sync for product 1
+2019-03-06 20:58:02 - Sync for product 2
+2019-03-06 22:17:01 - Sync for product 1
+2019-03-06 22:34:36 - Sync for product 1
+2019-03-06 22:34:40 - Sync for product 2
+2019-03-06 22:35:31 - Sync for product 1
+2019-03-06 22:35:37 - Sync for product 2
+2019-03-06 22:35:40 - Sync for product 1
+2019-03-07 11:30:48 - Sync for product 1
+2019-03-07 11:31:29 - Update products for availability change - 1
+2019-03-07 16:17:16 - Update products for availability change - 1
+2019-03-07 17:14:37 - Sync for product 2
+2019-03-07 17:15:35 - Sync for product 2
+2019-03-07 19:05:44 - Update products for availability change - 1
+2019-09-26 4:41:24 - Sync for product 1
+2019-09-26 9:04:52 - Sync for product 1
+2019-09-26 9:05:34 - Sync for product 1
+2019-09-26 9:06:30 - Sync for product 1
+2019-09-26 9:07:53 - Sync for product 1
+2019-09-26 10:26:01 - Sync for product 1
+2019-09-26 10:36:50 - Sync for product 2
+2019-09-26 10:37:08 - Sync for product 3
+2019-09-26 10:38:18 - Sync for product 3
+2019-09-26 10:38:28 - Sync for product 2
+2019-09-26 10:39:32 - Sync for product 2
+2019-09-26 10:39:33 - Sync for product 2
+2019-09-26 10:39:45 - Sync for product 3
+2019-09-26 10:39:45 - Sync for product 3
+2019-09-26 10:43:08 - Sync for product 4
+2019-09-26 10:45:45 - Sync for product 4
+2019-09-26 10:46:01 - Sync for product 4
+2019-09-26 10:46:02 - Sync for product 4
+2019-09-26 10:47:19 - Sync for product 4
+2019-09-26 10:47:20 - Sync for product 4
+2019-09-26 11:24:03 - Sync for product 5
+2019-09-26 12:20:47 - Sync for product 5
+2019-09-26 12:20:48 - Sync for product 5
+2019-09-26 12:21:11 - Sync for product 5
+2019-09-27 4:04:00 - Sync for product 5
+2019-09-27 4:04:01 - Sync for product 5
+2019-09-27 5:07:17 - Sync for product 5
+2019-09-27 5:07:19 - Sync for product 5
+2019-09-27 5:12:20 - Sync for product 6
+2019-09-27 5:14:38 - Sync for product 5
+2019-09-27 5:38:39 - Sync for product 5
+2019-09-27 5:40:36 - Sync for product 5
+2019-09-27 6:14:51 - Sync for product 7
+2019-09-27 6:15:30 - Sync for product 8
+2019-09-27 6:16:01 - Sync for product 9
+2019-09-27 6:24:24 - Sync for product 10
+2019-09-27 6:25:06 - Sync for product 11
+2019-09-27 6:25:41 - Sync for product 12
+2019-09-27 7:23:25 - Sync for product 13
+2019-09-27 7:24:18 - Sync for product 14
+2019-09-27 7:25:39 - Sync for product 15
+2019-09-27 7:27:20 - Sync for product 16
+2019-09-27 7:28:20 - Sync for product 17
+2019-09-27 7:29:05 - Sync for product 18
+2019-09-27 7:29:59 - Sync for product 19
+2019-09-27 7:30:36 - Sync for product 20
+2019-09-27 7:31:03 - Sync for product 21
+2019-09-30 5:47:51 - Sync for product 6
+2019-09-30 5:52:47 - Sync for product 6
+2019-09-30 5:53:00 - Sync for product 6
+2019-09-30 5:53:16 - Sync for product 6
+2019-09-30 5:58:50 - Sync for product 7
+2019-09-30 8:32:35 - Sync for product 7
+2019-09-30 8:57:41 - Sync for product 7
+2019-09-30 8:57:47 - Sync for product 7
+2019-10-02 5:51:41 - Sync for product 7
+2019-10-02 5:53:05 - Sync for product 6
+2019-10-02 5:53:08 - Sync for product 6
+2019-10-02 5:54:55 - Sync for product 1
+2019-10-02 5:54:57 - Sync for product 1
+2019-10-02 5:56:01 - Sync for product 5
+2019-10-02 5:56:04 - Sync for product 5
+2019-10-03 18:45:30 - Update products for availability change - 13,14
+2019-10-04 14:37:52 - Sync for product 5
+2019-10-04 14:37:55 - Sync for product 5
+2019-10-04 14:38:07 - Sync for product 11
+2019-10-04 14:38:08 - Sync for product 11
+2019-10-04 14:38:20 - Sync for product 1
+2019-10-04 14:38:22 - Sync for product 1
+2019-10-04 14:38:31 - Sync for product 2
+2019-10-04 14:38:33 - Sync for product 2
+2019-10-04 14:38:44 - Sync for product 3
+2019-10-04 14:38:46 - Sync for product 3
+2019-10-04 14:38:55 - Sync for product 12
+2019-10-04 14:38:56 - Sync for product 12
+2019-10-04 14:39:06 - Sync for product 10
+2019-10-04 14:39:07 - Sync for product 10
+2019-10-04 14:39:18 - Sync for product 9
+2019-10-04 14:39:28 - Sync for product 8
+2019-10-04 14:39:30 - Sync for product 8
+2019-10-04 14:40:16 - Sync for product 7
+2019-10-04 14:40:18 - Sync for product 7
+2019-10-31 7:14:51 - Sync for product 6
+2019-10-31 8:07:54 - Sync for product 6
+2019-10-31 8:08:49 - Sync for product 21
+2019-10-31 8:08:51 - Sync for product 21
+2019-11-25 10:56:16 - Sync for product 6
+2019-11-28 14:29:56 - Sync for product 22
+2019-11-28 14:30:51 - Sync for product 23
+2019-11-28 14:31:59 - Sync for product 24
+2019-11-28 14:32:48 - Sync for product 25
+2019-11-28 14:33:45 - Sync for product 26
+2019-11-28 14:34:35 - Sync for product 27
+2019-11-28 14:35:49 - Sync for product 28
+2019-11-28 14:36:45 - Sync for product 29
+2019-11-28 14:37:19 - Sync for product 29
+2019-11-28 14:37:21 - Sync for product 29
+2019-11-28 14:37:22 - Sync for product 29
+2019-11-28 14:38:15 - Sync for product 30
+2019-11-28 14:39:52 - Sync for product 31
+2019-11-28 14:48:08 - Sync for product 32
+2019-11-28 14:49:06 - Sync for product 33
+2019-11-28 14:50:01 - Sync for product 34
+2019-11-28 14:50:38 - Sync for product 35
+2019-11-28 14:51:24 - Sync for product 36
+2019-11-28 14:51:58 - Sync for product 37
+2019-11-28 14:52:40 - Sync for product 38
+2019-11-28 14:53:11 - Sync for product 38
+2019-11-28 14:53:12 - Sync for product 38
+2019-11-28 14:53:48 - Sync for product 39
+2019-11-28 14:54:52 - Sync for product 38
+2019-11-28 14:54:53 - Sync for product 38
+2019-11-28 14:55:25 - Sync for product 40
+2019-11-28 15:04:20 - Sync for product 41
+2019-11-28 15:05:21 - Delete for products - 5,11
+2019-11-28 15:05:32 - Delete for products - 1,2
+2019-11-28 15:07:29 - Sync for product 42
+2019-11-28 15:07:49 - Delete for products - 3,12,10
+2019-11-28 15:14:22 - Sync for product 42
+2019-11-28 15:14:51 - Delete for products - 8
+2019-11-28 15:14:59 - Delete for products - 9
+2019-11-28 15:15:59 - Delete for products - 7
+2019-11-28 15:21:32 - Sync for product 43
+2019-11-28 15:22:39 - Delete for products - 16
+2019-11-28 15:25:58 - Sync for product 44
+2019-11-28 15:26:21 - Sync for product 44
+2019-11-28 15:26:23 - Sync for product 44
+2019-11-28 15:27:20 - Sync for product 45
+2019-11-28 15:28:07 - Sync for product 46
+2019-11-28 15:34:09 - Sync for product 47
+2019-11-28 15:35:03 - Sync for product 47
+2019-11-28 15:35:36 - Sync for product 48
+2019-11-28 15:36:08 - Sync for product 49
+2019-11-28 15:36:53 - Sync for product 50
+2019-11-28 15:37:32 - Sync for product 51
+2019-11-28 15:38:08 - Sync for product 52
+2019-11-28 15:42:38 - Sync for product 53
+2019-11-28 15:44:09 - Sync for product 54
+2019-11-28 15:45:08 - Sync for product 55
+2019-11-28 15:49:59 - Sync for product 56
+2019-11-28 15:50:38 - Sync for product 57
+2019-11-28 15:51:07 - Sync for product 58
+2019-11-28 15:52:01 - Sync for product 59
+2019-11-28 15:59:51 - Sync for product 60
+2019-11-28 16:01:13 - Sync for product 60
+2019-11-28 16:01:14 - Sync for product 60
+2019-11-28 16:14:13 - Sync for product 61
+2019-11-28 16:20:50 - Sync for product 62
+2019-11-28 16:25:07 - Sync for product 63
+2019-11-28 16:26:56 - Sync for product 64
+2019-11-28 18:01:29 - Delete for products - 20,17,13,19
+2019-11-28 18:01:45 - Delete for products - 4
+2019-11-28 18:01:58 - Delete for products - 21
+2019-11-28 18:02:11 - Delete for products - 18
+2019-11-28 18:02:40 - Delete for products - 6,14,15
+2019-11-28 19:34:08 - Get Sample product feed
+2019-11-28 19:34:08 - Complete - Get Sample product feed
+2019-12-02 12:05:45 - Sync for product 62
+2019-12-02 14:24:41 - Sync for product 43
+2019-12-02 14:24:44 - Sync for product 43
+2019-12-02 14:25:48 - Sync for product 43
+2019-12-02 14:30:31 - Sync for product 65
+2019-12-02 14:31:18 - Sync for product 66
+2019-12-02 14:32:56 - Sync for product 67
+2019-12-03 18:43:06 - Sync for product 68
+2019-12-03 18:49:22 - Sync for product 69
+2019-12-03 18:49:32 - Sync for product 70
+2019-12-03 18:53:02 - Delete for products - 70
+2019-12-03 18:53:21 - Delete for products - 41
+2019-12-03 19:07:23 - Sync for product 69
+2019-12-03 19:07:52 - Sync for product 69
+2019-12-03 19:08:05 - Sync for product 69
+2019-12-03 19:08:13 - Sync for product 69
+2019-12-03 19:08:14 - Sync for product 69
+2019-12-10 17:36:59 - Sync for product 31
+2019-12-10 17:41:50 - Sync for product 70
+2019-12-10 17:42:07 - Sync for product 70
+2019-12-23 10:52:39 - Delete for products - 62
+2019-12-23 10:53:23 - Sync for product 67
+2019-12-23 11:56:49 - Sync for product 71
+2019-12-23 11:57:33 - Sync for product 72
+2019-12-23 11:58:31 - Sync for product 73
+2019-12-23 11:58:38 - Sync for product 69
+2019-12-23 11:59:48 - Sync for product 71
+2020-01-08 10:18:29 - Sync for product 46
+2020-01-08 10:20:01 - Sync for product 45
+2020-01-08 10:20:43 - Sync for product 44
+2020-01-13 0:23:47 - Update products for availability change - 26
+2020-03-09 10:15:03 - Update products for availability change - 26
+2020-03-25 8:57:19 - Update products for availability change - 26
+2020-04-02 15:23:20 - Update products for availability change - 26
+2020-04-07 18:50:38 - Update products for availability change - 26
+2020-04-15 12:57:00 - Update products for availability change - 22,26
+2020-04-21 19:44:48 - Update products for availability change - 26
+2020-05-03 19:25:19 - Update products for availability change - 22
+2020-05-07 16:38:10 - Update products for availability change - 39
+2020-05-23 3:55:28 - Update products for availability change - 26
+2020-05-31 23:22:24 - Update products for availability change - 26
+2020-06-10 20:40:48 - Update products for availability change - 26
+2020-06-11 16:56:14 - Update products for availability change - 43
+2020-06-14 9:44:27 - Update products for availability change - 26
+2020-06-23 15:15:53 - Update products for availability change - 26
+2020-08-19 15:50:23 - Update products for availability change - 53,57
+2020-08-27 21:51:23 - Update products for availability change - 71
+2020-08-29 15:21:59 - Update products for availability change - 42
+2020-09-19 15:17:45 - Update products for availability change - 23,39
+2020-10-17 10:53:34 - Update products for availability change - 22
+2020-11-04 15:22:08 - Update products for availability change - 23
+2020-11-11 21:34:17 - Update products for availability change - 55,57
+2020-11-19 14:54:02 - Update products for availability change - 26
+2020-11-23 11:07:27 - Update products for availability change - 36
+2020-12-16 10:59:57 - Update products for availability change - 43
+2020-12-22 11:42:52 - Update products for availability change - 39
+2021-01-04 22:18:34 - Update products for availability change - 23
+2021-01-15 17:56:32 - Update products for availability change - 26
+2021-03-06 20:14:01 - Update products for availability change - 26
+2021-03-09 14:39:31 - Update products for availability change - 26
+2021-03-31 23:53:04 - Update products for availability change - 23
+2021-04-06 22:37:56 - Update products for availability change - 22
+2021-04-20 12:35:52 - Update products for availability change - 22
+2021-05-03 9:47:21 - Update products for availability change - 26
+2021-05-21 12:36:09 - Update products for availability change - 26
+2021-06-08 23:56:54 - Update products for availability change - 24,25
+2021-06-15 9:27:08 - Update products for availability change - 22,26
+2021-06-23 16:32:28 - Update products for availability change - 26
+2021-08-13 13:30:24 - Update products for availability change - 43
+2021-08-14 10:48:46 - Update products for availability change - 26
+2021-08-29 16:46:03 - Update products for availability change - 26
+2021-09-20 15:18:53 - Update products for availability change - 26
+2021-10-08 11:31:09 - Update products for availability change - 26
+2021-10-10 16:03:23 - Update products for availability change - 26
+2021-10-30 10:25:26 - Update products for availability change - 43
+2021-12-01 9:46:01 - Update products for availability change - 26
+2022-01-14 13:54:16 - Update products for availability change - 23
+2022-01-24 19:56:50 - Update products for availability change - 23
+2022-03-01 10:03:23 - Update products for availability change - 43
+2022-03-01 12:03:04 - Update products for availability change - 26
+2022-03-01 15:29:16 - Update products for availability change - 26
+2022-03-07 11:05:30 - Update products for availability change - 26
+2022-04-15 10:45:58 - Update products for availability change - 26
+2022-04-18 22:57:00 - Update products for availability change - 23,24
+2022-05-18 4:19:00 - Update products for availability change - 36
+2022-09-29 11:50:02 - Update products for availability change - 26,46
+2022-10-05 14:53:27 - Update products for availability change - 65
+2022-10-05 15:09:44 - Sync for product 69
+2022-10-05 15:25:30 - Sync for product 68
+2022-10-06 11:36:36 - Get Sample product feed
+2022-10-06 11:36:36 - Complete - Get Sample product feed
+2022-11-21 11:59:59 - Update products for availability change - 26
+2023-01-30 9:25:31 - Update products for availability change - 26
+2023-02-20 15:39:37 - Update products for availability change - 26
+2023-03-09 8:16:43 - Update products for availability change - 36
+2023-03-09 8:44:07 - Update products for availability change - 36
+2023-03-11 10:08:33 - Update products for availability change - 22
+2023-08-02 23:03:06 - Update products for availability change - 43
